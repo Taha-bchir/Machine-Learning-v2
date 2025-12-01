@@ -1,0 +1,1001 @@
+candidat_id,nom_prénom,âge,niveau_études,spécialité,années_expérience,secteur_précédent,score_test_technique,score_softskills,langues_parlées,mobilité,disponibilité_immédiate,performant_après_6_mois
+C0001,Roux René,25.0,Bac+3,Informatique,0.0,Santé,39.6,89.8,3,0,1,0
+C0002,Fernandez Pauline,31.0,Bac,Ingénierie,1.0,Tech,,87.4,2,1,1,0
+C0003,Cordier René,30.0,Bac+5,Finance,,Aucun,68.1,70.8,2,1,1,1
+C0004,Nicolas Virginie,45.0,Bac+5,Commerce,31.0,Tech,41.8,78.6,2,1,0,1
+C0005,Morel Alex,34.0,Bac+3,Data Science,1.0,,19.3,54.5,1,,1,0
+C0006,Regnier Gabrielle,26.0,Bac+2,Data Science,4.0,Startup,9999.0,65.5,1,1,0,1
+C0007,Le Roux Zacharie,24.0,Bac+3,,5.0,Tech,6.1,100.0,3,0,1,0
+C0008,Roux Hugues,30.0,Master,Marketing,14.0,Aucun,78.2,53.0,2,1,1,1
+C0009,Dufour Yves,31.0,Bac+5,data,14.0,Consulting,89.1,53.4,1,1,1,1
+C0010,Guilbert Xavier,39.0,Bac +2,Finance,10.0,Tech,67.5,77.1,3,0,0,1
+C0011,Boutin Patrick,31.0,Bac+5,Informatique,4.0,Industrie,50.6,82.4,2,1,1,1
+C0012,Goncalves Adrien,39.0,Bac+5,Autre,19.0,Finance,50.5,88.8,3,Oui,1,1
+C0013,Nguyen Philippine,30.0,Bac+2,,12.0,Industrie,18.7,56.6,2,oui,0,1
+C0014,Fernandez Jeannine,22.0,Doctorat,Informatique,4.0,Startup,32.0,82.1,2,OUI,1,0
+C0015,Hoareau Daniel,26.0,Bac,Informatique,7.0,Industrie,49.6,80.0,3,1,1,1
+C0016,Robert Thomas,40.0,Master,Data Science,0.0,Finance,50.6,79.0,2,1,1,1
+C0017,Foucher Caroline,38.0,Bac+5,Ingénierie,6.0,Public,43.2,48.1,2,1,0,0
+C0018,Henry Benjamin,24.0,Bac+3,Ingénierie,6.0,Tech,0.7,71.3,2,1,1,1
+C0019,Morin Margot,23.0,Bac,Autre,6.0,Banque,38.3,63.0,2,0,1,1
+C0020,Blanchard Gilbert,38.0,Bac+5,Marketing,12.0,Aucun,24.6,69.8,1,0,1,1
+C0021,Lefebvre Stéphane,31.0,Bac+3,data,1.0,Public,57.9,87.6,3,Non,0,1
+C0022,Perret Henriette,26.0,Bac,Ingénierie,0.0,Banque,26.2,88.1,1,1,0,1
+C0023,Martel Rémy,34.0,Bac+2,Data Science,10.0,Tech,-10.0,61.4,2,0,1,0
+C0024,Lelièvre Virginie,27.0,Bac+5,Informatique,10.0,Public,75.3,66.3,2,1,1,0
+C0025,Da Silva Pauline,29.0,Bac,data,10.0,Finance,42.3,60.4,3,1,1,0
+C0026,Schneider Zacharie,27.0,Bac+3,Finance,8.0,Tech,43.1,56.8,3,1,1,1
+C0027,Barbe Suzanne,34.0,Bac +2,Autre,1.0,Finance,33.7,25.1,3,1,0,0
+C0028,Guillet Lucas,26.0,BAC+5,,,Public,66.0,58.1,4,Oui,0,1
+C0029,Raynaud Lucie,33.0,Bac+3,Data Science,999.0,Tech,100.0,20.0,3,1,0,1
+C0030,Laine Geneviève,32.0,Bac+5,Commerce,6.0,Finance,31.4,98.0,2,Oui,0,1
+C0031,Gomes Alexandre,32.0,Master,,1.0,Aucun,29.6,51.3,3,1,1,1
+C0032,Chauvin Pauline,36.0,bac,Informatique,9.0,Banque,71.7,55.0,1,1,1,1
+C0033,Imbert Denise,35.0,Bac+5,Marketing,3.0,Banque,19.9,65.1,2,1,1,0
+C0034,Gay Marianne,31.0,BAC+5,Autre,0.0,Startup,11.6,52.0,2,1,1,0
+C0035,Tanguy Lucie,25.0,Master,Marketing,4.0,Consulting,30.4,66.0,1,0,0,0
+C0036,Martineau Jeannine,28.0,BAC+5,,3.0,,46.1,80.5,2,1,1,1
+C0037,Vallée Dorothée,36.0,Bac+5,Marketing,20.0,Finance,59.2,69.2,3,1,0,0
+C0038,Laroche Astrid,27.0,Bac+2,Commerce,2.0,Public,30.4,74.5,3,1,0,0
+C0039,Besson Danielle,24.0,Bac,Ingénierie,0.0,Public,17.7,,1,Non,1,0
+C0040,David Camille,31.0,Bac+5,Finance,10.0,Tech,53.4,64.9,2,1,1,0
+C0041,Faivre Madeleine,33.0,Bac+3,Data Science,6.0,Tech,68.6,69.3,2,1,1,1
+C0042,Arnaud Monique,39.0,Master,Informatique,16.0,Tech,40.3,45.2,3,1,1,0
+C0043,Perez Claire,46.0,Licence,Informatique,19.0,Finance,50.3,47.2,2,0,1,0
+C0044,Descamps Rémy,32.0,Bac+3,Commerce,15.0,Santé,40.0,40.2,2,1,0,1
+C0045,Picard Xavier,25.0,Licence,Data Science,7.0,Banque,75.6,51.8,,oui,1,1
+C0046,Marques Françoise,33.0,Bac+2,Ingénierie,13.0,Industrie,50.3,76.5,2,oui,1,0
+C0047,Michaud David,27.0,Bac,Marketing,2.0,Finance,19.7,76.3,1,1,1,0
+C0048,Ramos Cécile,29.0,Bac+5,Ingénierie,12.0,Industrie,63.4,85.6,2,0,0,1
+C0049,Chevallier Henriette,32.0,Bac+2,,7.0,Industrie,23.7,44.8,2,1,0,0
+C0050,Merle Yves,25.0,Bac+5,Autre,3.0,Startup,55.1,62.1,3,0,0,1
+C0051,Durand Laurent,26.0,Bac+5,Commerce,6.0,Startup,35.3,60.8,1,1,1,1
+C0052,Coste Emmanuel,41.0,,Informatique,2.0,Finance,61.1,79.1,2,0,1,1
+C0053,Techer Aimée,32.0,Master,Ingénierie,3.0,Industrie,36.8,42.4,4,1,1,1
+C0054,Richard Adrienne,-5.0,Bac+3,Marketing,0.0,Finance,26.4,59.7,2,1,1,1
+C0055,Rolland Anne,26.0,BAC+5,Ingénierie,6.0,Tech,74.2,79.1,1,1,1,0
+C0056,Rossi Constance,41.0,Bac+5,Data Science,1.0,Banque,45.7,82.4,4,1,0,0
+C0057,Ramos Valentine,31.0,Bac,Finance,10.0,Tech,45.7,76.2,4,0,1,0
+C0058,Lopez Lucie,31.0,Bac+5,Informatique,13.0,Industrie,63.2,62.9,2,1,0,1
+C0059,Hervé Clémence,39.0,Bac+5,Finance,15.0,Aucun,41.8,66.6,2,1,0,0
+C0060,Salmon Louise,31.0,Bac+3,Mécanique,12.0,Banque,59.3,63.5,2,Oui,1,1
+C0061,Fouquet Nicolas,24.0,Bac,RH,5.0,Tech,33.0,68.7,2,1,1,1
+C0062,Devaux Christine,26.0,Bac+5,Ingénierie,7.0,Santé,32.6,64.9,2,1,1,1
+C0063,Schmitt Honoré,24.0,Bac+3,Data Science,2.0,Industrie,59.3,69.9,1,1,1,0
+C0064,Regnier Capucine,40.0,BAC+5,Informatique,15.0,Banque,100.0,57.1,2,1,0,0
+C0065,Hoareau Odette,44.0,Bac+3,data,2.0,Industrie,32.9,79.0,2,1,1,0
+C0066,Pinto Benjamin,29.0,Bac+2,Commerce,3.0,Banque,36.7,57.9,1,0,0,0
+C0067,Dubois Grégoire,27.0,BAC+2,Marketing,10.0,Public,63.6,100.0,2,1,0,1
+C0068,Pineau Léon,,Master,Data Science,0.0,Finance,51.0,56.8,1,0,1,1
+C0069,Lefebvre Pierre,32.0,Bac+5,Finance,10.0,Public,43.2,58.7,1,0,1,1
+C0070,Benard Marianne,22.0,Bac+5,Informatique,2.0,Tech,71.5,66.1,2,1,1,1
+C0071,Maillard Bernadette,32.0,BAC+5,Data Science,8.0,Consulting,85.7,47.6,3,,1,0
+C0072,Couturier Astrid,30.0,Bac+5,Data Science,10.0,Santé,63.0,67.0,2,0,1,1
+C0073,Martin Franck,33.0,Bac+3,Finance,8.0,Santé,,86.9,1,1,1,0
+C0074,Maurice Christophe,37.0,Bac+2,Autre,7.0,Startup,39.7,49.2,3,1,0,0
+C0075,Gros Adrienne,26.0,Bac+5,Marketing,0.0,Public,48.5,63.7,2,1,1,0
+C0076,Neveu Emmanuel,24.0,Bac,data,7.0,Tech,,54.2,1,1,0,0
+C0077,Perez Aurore,24.0,,Autre,5.0,,33.4,68.9,3,0,1,0
+C0078,Petit Stéphanie,46.0,Bac+2,Informatique,,Public,67.5,45.2,3,1,1,0
+C0079,Regnier Alexandria,23.0,BAC+5,,5.0,Startup,28.7,63.2,4,1,1,1
+C0080,Legrand Émilie,38.0,Master,Autre,9.0,Consulting,16.0,52.7,1,1,1,1
+C0081,Lemonnier Luce,27.0,Bac+5,Informatique,9.0,aucun,71.3,89.7,2,1,0,1
+C0082,Antoine Antoine,31.0,Master,Mécanique,6.0,Industrie,30.4,68.8,2,1,1,1
+C0083,Breton Rémy,33.0,Master,Commerce,18.0,Industrie,73.6,82.7,1,0,1,1
+C0084,Georges Arthur,34.0,Bac+5,Ingénierie,5.0,Aucun,19.8,63.1,2,1,0,0
+C0085,Hamel Gabrielle,25.0,Bac+3,Marketing,8.0,Consulting,27.3,72.9,3,,1,0
+C0086,Daniel Arnaude,42.0,Bac +2,Data Science,19.0,tech,74.6,62.2,1,oui,1,1
+C0087,Lévêque André,28.0,Bac+5,info,10.0,Finance,85.5,58.1,3,0,1,0
+C0088,Riou Luce,,BAC+2,Finance,42.0,Banque,86.3,69.3,2,oui,1,1
+C0089,Goncalves Astrid,28.0,Bac+5,Ingénierie,0.0,Startup,27.0,49.1,4,1,0,1
+C0090,Andre Michelle,46.0,Bac+2,Commerce,4.0,Startup,22.7,53.2,3,0,1,0
+C0091,Potier Guy,26.0,Bac,Data Science,0.0,Tech,50.6,79.2,1,1,1,0
+C0092,Guichard Marguerite,26.0,Bac,Marketing,8.0,Banque,16.4,82.4,2,1,1,0
+C0093,Huet Noémi,30.0,Bac+5,Marketing,1.0,Tech,36.6,78.7,3,0,0,1
+C0094,Chevalier Valérie,25.0,Licence,Data Science,6.0,,66.8,67.8,2,0,0,1
+C0095,Techer Bertrand,29.0,Master,Marketing,5.0,Industrie,54.8,49.7,2,1,1,1
+C0096,Thierry Diane,32.0,Bac+3,Ingénierie,7.0,Finance,33.6,69.0,4,1,1,0
+C0097,Chevallier Élise,29.0,Bac+3,Informatique,7.0,Tech,94.2,66.6,1,1,1,0
+C0098,Schneider William,30.0,BAC+5,Informatique,5.0,tech,50.7,65.5,2,1,0,0
+C0099,Bègue Pénélope,29.0,BAC+5,Commerce,3.0,Consulting,17.0,44.6,2,0,1,0
+C0100,Klein Philippine,24.0,Bac+5,info,4.0,Finance,42.2,61.7,3,1,0,0
+C0101,Perrier Alexandrie,28.0,Bac+3,Ingénierie,5.0,,14.9,56.0,3,1,1,0
+C0102,Marchand Élisabeth,29.0,BAC+2,Ingénierie,,Consulting,73.3,45.0,2,1,0,0
+C0103,Marques Diane,28.0,Bac+5,Informatique,12.0,Startup,74.8,100.0,3,Oui,1,1
+C0104,Mathieu Louise,33.0,Bac+5,Commerce,13.0,Startup,,51.0,2,oui,1,1
+C0105,Brun Suzanne,35.0,Bac+5,Commerce,10.0,Industrie,53.3,90.8,deux,Non,1,1
+C0106,Pruvost Alice,31.0,,,12.0,Startup,65.5,84.6,3,1,1,0
+C0107,Lesage Charles,40.0,Bac+5,Autre,24.0,Santé,56.5,85.2,3,1,1,0
+C0108,Traore Grégoire,,,Data Science,6.0,,47.5,,2,0,1,1
+C0109,De Sousa Marguerite,37.0,BAC+5,Ingénierie,21.0,Startup,69.1,77.9,2,0,1,1
+C0110,Lefebvre Adèle,-5.0,Licence,Informatique,0.0,Finance,14.2,76.5,3,1,0,0
+C0111,Lebreton Nicole,31.0,Bac+5,,2.0,Startup,29.6,54.0,2,1,1,1
+C0112,Rousset Michelle,36.0,Bac+2,RH,2.0,Finance,25.0,73.6,,1,1,0
+C0113,Mendès Marguerite,36.0,Bac+3,Data Science,14.0,Industrie,80.3,67.0,2,1,1,1
+C0114,Lebreton Thibaut,22.0,Bac,Informatique,1.0,Tech,30.3,61.1,2,1,0,0
+C0115,Gilbert Sophie,27.0,Bac+3,Autre,3.0,Tech,31.1,999.0,1,0,1,1
+C0116,Becker Antoine,27.0,Bac+3,Ingénierie,6.0,tech,53.2,45.2,1,1,0,0
+C0117,Leroux Dorothée,26.0,BAC+5,Marketing,9.0,Banque,28.7,61.7,,0,1,0
+C0118,Germain Diane,,Bac+3,Autre,15.0,Finance,25.3,58.0,2,1,1,1
+C0119,Buisson Frédérique,40.0,Bac+3,Ingénierie,25.0,Startup,48.9,34.4,2,1,0,1
+C0120,Dos Santos Zacharie,39.0,BAC+5,Finance,17.0,Consulting,21.5,66.9,1,1,0,0
+C0121,Charrier François,31.0,Bac+3,Finance,8.0,Startup,39.3,44.0,3,1,1,1
+C0122,Morvan Monique,31.0,Bac+5,Commerce,0.0,Tech,17.5,64.1,2,1,0,1
+C0123,Tessier Maurice,30.0,Bac+5,,6.0,Banque,17.4,64.8,2,OUI,1,0
+C0124,Colas Zacharie,44.0,Bac,Finance,0.0,Startup,27.8,34.9,3,1,0,0
+C0125,Morin Richard,37.0,Bac+3,Informatique,4.0,Tech,45.4,61.7,1,1,0,1
+C0126,Guillou Patrick,35.0,Bac+5,,17.0,Tech,69.3,62.8,2,Non,1,1
+C0127,Martins Tristan,32.0,Bac+5,Data Science,14.0,Public,49.6,60.3,1,1,0,0
+C0128,Aubry Anastasie,37.0,BAC+5,Autre,,Startup,28.0,80.1,1,0,0,0
+C0129,Bertrand Constance,39.0,Bac+5,Informatique,18.0,Banque,28.2,86.7,2,0,0,0
+C0130,Faure Louis,32.0,Bac+3,Informatique,5.0,Aucun,40.1,77.6,3,1,1,0
+C0131,Bodin Luc,29.0,Bac+5,Ingénierie,0.0,Industrie,16.3,100.0,1,OUI,1,1
+C0132,Thierry Alfred,36.0,Licence,Data Science,5.0,aucun,49.2,67.3,3,1,0,0
+C0133,Leclercq René,41.0,Licence,Ingénierie,,Tech,61.2,88.6,2,1,0,0
+C0134,Moreno Nicolas,31.0,Bac+5,RH,4.0,,40.8,87.8,1,0,0,1
+C0135,Clément Joséphine,27.0,Doctorat,Finance,9.0,Consulting,38.8,79.6,1,,1,1
+C0136,Prévost Émile,32.0,BAC+5,Marketing,6.0,Tech,32.4,51.6,2,1,0,1
+C0137,Leblanc Françoise,30.0,Master,Marketing,2.0,Public,29.6,75.2,2,1,1,1
+C0138,Tanguy Grégoire,34.0,Master,Informatique,12.0,Finance,44.5,70.5,2,1,1,1
+C0139,Joubert Grégoire,31.0,Bac,Marketing,6.0,Tech,58.3,60.6,2,0,,0
+C0140,Guillet Clémence,42.0,Bac+2,Ingénierie,12.0,Tech,32.8,69.5,3,Oui,1,0
+C0141,Foucher Anastasie,28.0,Master,Informatique,10.0,Tech,60.0,53.0,2,1,1,1
+C0142,Diallo Antoine,27.0,Bac+5,Autre,2.0,Industrie,,54.4,2,1,0,0
+C0143,Boucher Michèle,28.0,Bac+5,Marketing,8.0,Industrie,30.9,66.3,,1,0,1
+C0144,Verdier Claire,24.0,Bac+3,Marketing,6.0,Tech,33.9,31.5,2,1,1,1
+C0145,Leblanc Anastasie,999.0,Bac+5,Informatique,449.0,Finance,100.0,72.3,1,OUI,1,1
+C0146,Hubert Zoé,27.0,Bac+2,Informatique,8.0,Public,39.6,46.2,1,0,1,0
+C0147,Charrier Gilbert,34.0,Bac+5,Finance,,Aucun,61.4,66.5,2,1,1,1
+C0148,Bourdon Luce,30.0,Bac+5,Informatique,14.0,Finance,71.1,34.2,1,0,1,1
+C0149,Robert Stéphanie,35.0,Bac,Informatique,,Industrie,58.8,,3,0,0,0
+C0150,Brunel Julie,39.0,Bac+3,Data Science,25.0,Consulting,89.5,86.3,2,1,1,1
+C0151,Costa Zacharie,24.0,Bac+5,Marketing,3.0,Tech,,66.2,2,Non,1,0
+C0152,Grenier Isabelle,37.0,Bac+5,Commerce,12.0,Startup,60.1,74.1,1,1,0,1
+C0153,Rivière Marie,24.0,Master,,3.0,Public,12.0,58.2,1,,1,1
+C0154,Roux Agnès,30.0,Master,Finance,0.0,Public,49.3,51.4,2,1,1,1
+C0155,Jacques Agnès,27.0,,Informatique,10.0,,50.9,72.1,2,1,0,0
+C0156,Laroche Astrid,,Bac,Finance,17.0,Startup,60.4,,3,1,1,0
+C0157,Gomes Agathe,34.0,PhD,Data Science,8.0,Aucun,72.2,65.2,3,1,0,1
+C0158,Fabre Pénélope,29.0,Bac+3,Informatique,9.0,Finance,63.0,82.7,1,0,1,0
+C0159,Pons Zacharie,32.0,Bac+5,Marketing,13.0,Tech,36.4,70.4,2,1,1,0
+C0160,Chrétien Léon,28.0,,Data Science,7.0,Startup,70.3,75.7,3,0,1,1
+C0161,Arnaud Alex,29.0,Bac+3,Informatique,4.0,Aucun,43.5,43.7,3,0,1,1
+C0162,Bonnet Zoé,27.0,Master,Ingénierie,6.0,,28.2,68.8,3,0,1,0
+C0163,Legros Alexandria,31.0,Bac+3,RH,15.0,Aucun,999.0,67.5,3,1,0,1
+C0164,Charrier Rémy,22.0,,RH,3.0,Startup,66.8,85.0,2,1,0,0
+C0165,Roger Gabrielle,33.0,Bac+5,Marketing,1.0,Tech,,78.2,2,1,0,0
+C0166,Mallet Alexandrie,34.0,Bac+5,Marketing,6.0,Consulting,55.6,78.8,3,1,0,1
+C0167,Muller Théodore,38.0,Bac+5,Finance,11.0,Startup,,47.3,2,0,1,0
+C0168,Rivière Rémy,38.0,Bac+2,Marketing,2.0,Public,45.7,70.1,2,1,1,1
+C0169,Gaudin Thérèse,22.0,BAC+5,Mécanique,4.0,Tech,46.0,61.1,2,1,1,1
+C0170,Texier Tristan,30.0,Bac,Commerce,3.0,Industrie,52.9,63.6,3,1,0,0
+C0171,Lefèvre Alex,37.0,bac,Autre,18.0,Startup,64.1,69.8,2,1,1,1
+C0172,Roux Jacqueline,39.0,Bac+5,info,5.0,Consulting,64.6,71.8,3,0,1,1
+C0173,Chevallier Théophile,40.0,Bac+3,Informatique,8.0,Consulting,70.4,58.5,3,1,1,1
+C0174,Nicolas Chantal,23.0,Licence,Data Science,6.0,Industrie,40.3,45.2,2,1,0,1
+C0175,Baudry Paulette,24.0,Bac+5,RH,5.0,Public,30.4,56.7,2,1,1,0
+C0176,Munoz Victor,24.0,Bac+5,Finance,4.0,Industrie,15.5,60.4,2,0,,1
+C0177,Berger Madeleine,33.0,Doctorat,Finance,15.0,Tech,-10.0,62.3,2,1,0,0
+C0178,Cohen René,27.0,Bac+5,RH,7.0,Santé,0.0,71.1,2,1,1,0
+C0179,Navarro Geneviève,40.0,BAC+5,Informatique,9.0,Aucun,41.1,89.4,3,1,1,1
+C0180,Masse Adélaïde,31.0,Bac+5,,1.0,Public,50.2,70.4,3,OUI,0,0
+C0181,Menard Marie,31.0,Bac+3,Finance,13.0,Aucun,23.7,92.1,2,oui,1,0
+C0182,Pineau Constance,24.0,Licence,Informatique,7.0,Finance,70.6,58.8,3,Oui,1,0
+C0183,Bruneau Robert,27.0,Bac+5,Finance,4.0,Public,29.5,46.3,2,1,0,1
+C0184,Marques Benoît,42.0,BAC+2,Informatique,22.0,Consulting,84.5,36.8,1,0,1,1
+C0185,Vidal Gérard,38.0,Bac,Autre,21.0,Consulting,32.8,52.2,,,1,1
+C0186,Lefebvre Aurélie,43.0,BAC+5,Commerce,29.0,Public,70.7,61.0,1,1,0,0
+C0187,Peltier Colette,24.0,Bac,Finance,6.0,Banque,53.8,55.7,2,0,1,0
+C0188,Peron Gilles,37.0,Bac+3,Finance,7.0,Finance,45.2,54.0,2,1,0,0
+C0189,Martel Élisabeth,29.0,Bac,Informatique,2.0,Startup,78.3,82.7,2,0,1,0
+C0190,Dupont Charlotte,-5.0,Bac+5,Data Science,0.0,Finance,31.0,63.7,3,Oui,1,1
+C0191,Allard Guy,32.0,Bac+5,Marketing,10.0,Public,50.4,74.2,1,1,0,1
+C0192,Germain Alexandrie,27.0,Bac,RH,10.0,Tech,27.3,52.3,2,1,1,0
+C0193,Louis Joséphine,36.0,Bac+5,Marketing,10.0,Banque,72.9,71.8,,1,1,1
+C0194,David Célina,,Bac+3,Commerce,6.0,Startup,40.0,59.1,3,1,0,0
+C0195,Bodin Joséphine,25.0,Bac+5,Data Science,5.0,Tech,40.7,82.6,3,1,0,0
+C0196,Becker Sébastien,40.0,Bac+5,Informatique,4.0,Consulting,75.4,69.9,1,1,1,1
+C0197,Munoz Inès,38.0,Bac+3,Commerce,17.0,Industrie,62.0,58.7,2,1,1,1
+C0198,Garcia Tristan,34.0,Bac,Finance,9.0,Tech,23.8,41.3,1,1,1,0
+C0199,Chauveau Alice,30.0,Doctorat,,1.0,Santé,41.5,81.9,3,1,1,0
+C0200,Dumas Marie,38.0,Bac,Mécanique,0.0,Public,27.1,57.1,2,1,1,0
+C0201,Andre Philippe,41.0,Bac+2,Marketing,12.0,Consulting,40.0,74.4,2,1,1,1
+C0202,Jacquet Jean,37.0,Bac+2,Finance,10.0,,3.1,81.9,3,0,0,0
+C0203,Delattre Agathe,31.0,Master,Autre,12.0,aucun,17.3,56.4,1,0,,0
+C0204,Lamy Benjamin,27.0,Doctorat,Finance,99.0,tech,100.0,71.4,2,0,1,1
+C0205,Seguin Alexandre,27.0,Bac+3,Commerce,1.0,,53.1,58.8,2,,1,0
+C0206,Mahe Margot,29.0,Master,Marketing,9.0,Finance,39.6,73.9,2,1,0,0
+C0207,Gaillard Louis,31.0,Master,Ingénierie,1.0,Santé,42.2,41.4,2,1,0,1
+C0208,Lambert René,24.0,Master,Ingénierie,7.0,Industrie,37.2,999.0,4,0,1,1
+C0209,Hardy Jacques,27.0,Bac+3,,999.0,Banque,100.0,,2,1,0,0
+C0210,Salmon Nathalie,23.0,BAC+2,Data Science,6.0,Industrie,42.9,59.3,1,1,1,1
+C0211,Laporte Virginie,34.0,Bac+5,data,7.0,Tech,44.1,62.3,2,1,0,0
+C0212,Leclercq Thibaut,36.0,bac,Data Science,19.0,Tech,54.7,71.8,2,1,1,0
+C0213,Didier Chantal,,Bac+3,Autre,,Banque,59.1,78.3,2,1,0,1
+C0214,Hubert Roland,31.0,Bac+3,Autre,4.0,Tech,48.5,52.3,1,1,0,1
+C0215,Evrard Éric,39.0,Bac+3,Mécanique,16.0,Tech,44.5,54.6,3,,0,1
+C0216,Henry Capucine,26.0,Master,Data Science,9.0,Tech,77.7,86.3,2,1,1,1
+C0217,Raymond Émilie,32.0,,Data Science,8.0,Tech,56.0,79.8,2,1,1,0
+C0218,Pascal Roger,30.0,,Informatique,12.0,tech,62.7,82.3,2,1,1,1
+C0219,Leclercq Dorothée,33.0,Doctorat,,9.0,Banque,58.8,50.6,2,1,1,0
+C0220,Mercier Luce,150.0,Bac+2,Mécanique,80.0,Aucun,100.0,73.9,2,1,1,1
+C0221,Michaud Anouk,31.0,Bac,Finance,10.0,Finance,8.9,67.1,2,Non,1,1
+C0222,Pons Frédéric,28.0,Bac+3,Data Science,0.0,Finance,56.9,67.9,2,0,1,0
+C0223,Lopez Hélène,27.0,Bac+3,Ingénierie,7.0,tech,61.5,70.6,1,1,0,1
+C0224,Lesage Patricia,38.0,BAC+5,Informatique,23.0,Finance,87.4,53.2,3,1,1,1
+C0225,Guibert Bernadette,31.0,PhD,,0.0,Startup,26.0,64.9,2,0,1,1
+C0226,Blondel Agathe,31.0,Bac+5,Informatique,12.0,Santé,79.8,54.1,3,1,0,0
+C0227,Brunet Clémence,34.0,BAC+2,,11.0,Public,49.1,63.8,4,1,1,0
+C0228,Lucas Léon,32.0,Bac,Informatique,,Industrie,84.8,82.9,2,0,0,0
+C0229,Lecomte Olivier,39.0,Bac+2,RH,24.0,Tech,54.9,80.2,1,0,0,1
+C0230,Morel Patrick,35.0,Bac+3,Finance,8.0,Banque,69.3,53.4,2,1,1,0
+C0231,Guillaume David,34.0,Bac+5,Data Science,6.0,Banque,72.5,95.9,3,0,1,0
+C0232,Antoine André,35.0,,Finance,8.0,Tech,51.3,51.2,2,oui,1,0
+C0233,Dubois Antoinette,41.0,Bac+5,Data Science,26.0,Public,76.8,74.0,1,1,1,1
+C0234,Bègue Tristan,30.0,Bac+5,Commerce,2.0,tech,53.9,59.6,2,1,1,0
+C0235,Lévy Antoine,24.0,Master,Informatique,1.0,Consulting,59.6,58.8,3,1,0,1
+C0236,Dupont Paul,27.0,Bac+5,Autre,1.0,Startup,8.8,46.9,3,1,1,0
+C0237,Foucher Dominique,33.0,Bac+2,Ingénierie,7.0,Industrie,50.5,76.1,2,1,1,1
+C0238,Nguyen Marthe,39.0,Bac+5,Mécanique,25.0,Tech,57.0,51.8,2,1,1,1
+C0239,Klein Julien,28.0,Master,Marketing,4.0,Startup,47.3,66.4,1,1,1,0
+C0240,Bailly Frédéric,45.0,Bac+5,,31.0,Startup,100.0,70.5,3,1,1,1
+C0241,Carre Marguerite,29.0,Bac+2,Data Science,7.0,Tech,71.2,41.3,2,0,1,1
+C0242,Weiss Valentine,35.0,BAC+2,Informatique,12.0,,56.6,74.1,2,1,1,1
+C0243,Germain Marcel,28.0,Bac,Data Science,9.0,Tech,54.2,100.0,1,0,1,0
+C0244,Buisson André,30.0,Bac+3,Informatique,13.0,Tech,89.1,62.4,2,0,1,1
+C0245,Bouvet Agnès,34.0,BAC+2,data,5.0,Startup,47.6,76.9,3,1,1,1
+C0246,Brunet Chantal,28.0,Bac,RH,10.0,Industrie,29.0,52.5,3,0,1,1
+C0247,Jean Arnaude,39.0,Bac+2,Finance,12.0,Tech,22.5,80.9,2,1,0,0
+C0248,Louis Danielle,39.0,Doctorat,Ingénierie,13.0,Santé,50.7,66.6,1,,1,1
+C0249,Dupré Bernadette,40.0,BAC+5,Commerce,16.0,Startup,46.6,59.5,2,0,1,1
+C0250,Michaud Gabrielle,39.0,Bac+3,Autre,2.0,Tech,39.0,79.5,2,Oui,1,0
+C0251,Roche Amélie,32.0,Bac+2,Finance,11.0,Santé,66.9,49.6,2,Oui,1,0
+C0252,Garnier Colette,34.0,BAC+5,Marketing,13.0,,15.7,51.3,4,1,1,1
+C0253,Dupont Sébastien,36.0,Bac,Commerce,21.0,Industrie,56.4,91.9,3,Oui,1,1
+C0254,Joly Christelle,30.0,Bac,RH,4.0,Startup,28.3,74.6,2,1,1,0
+C0255,Foucher Michelle,45.0,Bac,Finance,13.0,Banque,33.8,87.7,3,1,1,1
+C0256,Gautier Gilbert,35.0,,Data Science,20.0,Startup,73.7,72.3,3,1,1,1
+C0257,Rivière Céline,28.0,Bac+5,Informatique,9.0,Banque,9.8,57.0,2,0,0,1
+C0258,Benard Françoise,41.0,Master,Mécanique,5.0,Tech,61.3,87.1,3,0,0,1
+C0259,Bonneau Alfred,34.0,Bac,Autre,9.0,Public,28.9,79.4,3,Oui,0,0
+C0260,Hebert Dorothée,44.0,Bac+2,Marketing,5.0,,999.0,48.9,2,1,0,1
+C0261,Benard Sébastien,36.0,Master,Ingénierie,4.0,Tech,33.7,84.3,3,0,1,0
+C0262,Étienne Marcel,29.0,Master,Ingénierie,11.0,Santé,12.3,73.2,3,1,1,0
+C0263,Perrier Benoît,30.0,,Commerce,12.0,Consulting,40.4,79.9,1,1,1,0
+C0264,Gautier Danielle,46.0,Doctorat,Finance,25.0,Industrie,59.7,79.3,2,1,1,1
+C0265,Chrétien Étienne,36.0,,Autre,16.0,Public,34.7,35.6,2,1,1,0
+C0266,Allain Margot,31.0,Bac,Informatique,5.0,Banque,82.4,58.0,3,1,1,0
+C0267,Germain Nathalie,25.0,BAC+5,Finance,4.0,Consulting,36.2,65.9,1,1,1,0
+C0268,Perez Renée,27.0,Bac+3,Finance,9.0,Startup,66.3,57.9,2,Oui,0,1
+C0269,Laroche Lucas,30.0,Master,Informatique,4.0,Public,29.0,54.1,2,1,1,0
+C0270,Jacob Jules,30.0,PhD,Autre,11.0,Consulting,25.6,57.0,2,0,0,0
+C0271,Humbert Gilbert,28.0,Bac+2,Ingénierie,4.0,Public,,53.6,1,1,0,0
+C0272,Ollivier Guillaume,33.0,Bac+5,Informatique,3.0,Tech,64.8,70.7,3,1,1,0
+C0273,Thomas Isaac,32.0,Bac+2,Informatique,0.0,Santé,46.6,64.8,3,1,0,1
+C0274,Fernandez Vincent,26.0,Bac+3,Autre,3.0,Startup,37.0,87.2,1,1,1,0
+C0275,David Eugène,34.0,,Finance,7.0,Banque,41.9,39.3,2,1,1,0
+C0276,Rodrigues Matthieu,37.0,BAC+5,Marketing,21.0,Santé,60.8,57.6,2,1,1,1
+C0277,Albert Aurore,32.0,PhD,Autre,6.0,Startup,52.1,58.3,4,1,0,0
+C0278,Bourgeois Margaud,25.0,Licence,Autre,1.0,Industrie,15.2,79.3,2,0,0,0
+C0279,Lebon Charles,38.0,Master,Informatique,22.0,Banque,,76.2,1,0,0,0
+C0280,Lefèvre Henri,35.0,Bac+5,Finance,20.0,,81.4,61.3,3,1,0,1
+C0281,Noël Célina,31.0,Master,Mécanique,11.0,Tech,100.0,57.7,2,1,1,1
+C0282,Grenier Éric,,Bac+3,RH,32.0,Tech,43.3,,4,0,0,1
+C0283,Lucas Marguerite,23.0,BAC+5,Marketing,6.0,Banque,81.7,67.3,2,1,0,0
+C0284,Dupont Agathe,40.0,Bac+2,Informatique,22.0,Startup,65.6,83.2,1,Non,0,1
+C0285,Besnard Suzanne,31.0,Bac+2,,11.0,,37.9,63.0,2,1,0,0
+C0286,Leclerc Thérèse,24.0,,Data Science,,aucun,52.1,48.6,2,Oui,1,1
+C0287,Dupuis Noël,31.0,bac,Autre,12.0,Tech,54.4,58.3,3,1,0,0
+C0288,Perret Zacharie,32.0,Licence,Mécanique,10.0,Industrie,52.3,68.1,3,1,1,0
+C0289,Leconte Guy,34.0,Bac,Informatique,1.0,aucun,68.4,94.4,2,1,1,1
+C0290,Blanc Margot,27.0,Bac +2,,0.0,Tech,48.2,76.9,1,OUI,1,1
+C0291,Petit Stéphane,45.0,Bac+2,Commerce,1.0,Consulting,23.0,67.0,3,0,1,0
+C0292,Millet Marguerite,29.0,,Finance,2.0,Aucun,45.0,93.7,3,Non,1,0
+C0293,Maréchal Adélaïde,27.0,Master,RH,2.0,Finance,13.5,75.0,2,0,1,0
+C0294,Rolland Sylvie,34.0,Master,Ingénierie,3.0,Startup,0.0,100.0,1,1,1,0
+C0295,Bonnet Bertrand,26.0,Bac+3,Marketing,6.0,Tech,26.3,67.0,1,1,1,0
+C0296,Dias Christophe,30.0,Bac+5,RH,,Public,53.5,71.0,2,0,1,0
+C0297,Masson Paul,36.0,Bac+3,Autre,7.0,Tech,55.0,79.3,1,1,1,1
+C0298,Hervé Noël,41.0,Bac,Finance,17.0,Industrie,41.9,47.4,2,1,1,0
+C0299,Marchand Frédérique,29.0,Bac,Finance,3.0,Tech,46.6,49.3,2,1,1,0
+C0300,Martin Sabine,27.0,Licence,Informatique,3.0,Banque,77.2,42.6,3,1,0,1
+C0301,Texier Pauline,29.0,BAC+5,Ingénierie,8.0,Consulting,37.3,58.3,3,1,1,0
+C0302,Clerc Dominique,30.0,Bac+5,Informatique,7.0,Santé,47.1,81.4,3,0,1,1
+C0303,Devaux Rémy,43.0,Master,Informatique,28.0,Startup,79.6,72.3,2,1,1,1
+C0304,De Oliveira Frédérique,37.0,Bac+2,Autre,1.0,Santé,13.4,69.6,3,0,0,0
+C0305,Tessier Alexandrie,36.0,Bac+5,Commerce,14.0,Santé,37.3,58.0,3,1,1,0
+C0306,Toussaint Gilles,26.0,Bac+5,Mécanique,4.0,Santé,68.1,999.0,2,0,0,1
+C0307,Delattre Arthur,27.0,Bac,Commerce,99.0,Industrie,100.0,47.0,1,1,0,1
+C0308,Marion Stéphane,34.0,Bac+2,Marketing,1.0,Santé,-10.0,55.2,2,0,0,0
+C0309,Marty Thomas,31.0,Bac+5,Ingénierie,9.0,Industrie,36.7,63.4,2,1,1,0
+C0310,Blot Zoé,26.0,Bac+3,RH,8.0,Santé,68.1,57.0,1,1,1,1
+C0311,Bernard Susanne,39.0,Bac+5,Finance,9.0,Tech,49.0,68.1,3,1,1,1
+C0312,Marty Corinne,39.0,Bac+2,Autre,24.0,Santé,55.1,67.4,3,OUI,0,1
+C0313,Thierry Adrien,36.0,Bac+3,Autre,4.0,,27.7,72.6,1,1,1,0
+C0314,Jourdan Théodore,22.0,Bac+3,Marketing,1.0,Tech,24.9,67.5,1,1,0,0
+C0315,Chevalier Alexandria,28.0,Doctorat,Ingénierie,99.0,Santé,100.0,,1,1,1,1
+C0316,Fouquet Julien,32.0,BAC+2,Ingénierie,15.0,Startup,43.8,50.4,3,1,0,1
+C0317,Bourdon Victor,39.0,Bac+5,Autre,25.0,aucun,65.8,60.1,1,0,1,1
+C0318,Hebert François,43.0,Bac+3,Data Science,3.0,Public,73.1,100.0,2,1,0,1
+C0319,Peron Jeannine,34.0,Bac+3,Marketing,4.0,Finance,39.5,67.7,1,1,0,1
+C0320,Vallet Élisabeth,30.0,BAC+2,Data Science,1.0,Banque,18.5,66.7,3,1,0,1
+C0321,Philippe Andrée,49.0,Bac+3,Commerce,35.0,Finance,60.8,90.2,2,0,1,1
+C0322,Bousquet Margaret,25.0,Bac+2,Ingénierie,2.0,tech,60.0,84.6,1,0,1,0
+C0323,Guérin Léon,30.0,Bac+3,Marketing,9.0,Public,13.7,63.3,2,0,1,0
+C0324,Leclerc Michelle,42.0,Bac,Marketing,7.0,Startup,53.0,77.6,3,1,0,0
+C0325,Pelletier Aurélie,40.0,Master,Data Science,3.0,Finance,71.9,68.5,2,Oui,,1
+C0326,Merle Christine,35.0,Bac+5,Autre,18.0,Public,49.8,74.6,2,1,1,1
+C0327,Jacquet Marcelle,,Master,Commerce,28.0,Consulting,56.8,77.0,2,0,1,1
+C0328,Lenoir Émilie,39.0,Bac+3,Commerce,10.0,Consulting,31.1,44.5,1,0,1,0
+C0329,Goncalves Amélie,999.0,Bac,Finance,1013.0,Consulting,100.0,82.2,2,1,1,1
+C0330,Michel Raymond,24.0,Bac+5,RH,1.0,Startup,58.6,63.1,1,Oui,1,1
+C0331,Chauveau Antoine,27.0,BAC+5,Ingénierie,9.0,Santé,20.6,53.6,2,Non,0,0
+C0332,Salmon Lorraine,25.0,Bac+2,,1.0,Finance,59.1,62.9,4,Oui,1,0
+C0333,Maillet Isaac,25.0,BAC+2,Informatique,-5.0,aucun,61.3,45.9,2,1,1,0
+C0334,Valette Léon,35.0,Bac+3,info,7.0,Tech,33.6,58.4,3,1,1,0
+C0335,Poulain Julien,39.0,Bac+3,Marketing,18.0,Tech,81.6,89.2,3,1,1,1
+C0336,Roussel Grégoire,39.0,Bac+3,Autre,19.0,Public,60.0,60.6,3,1,1,1
+C0337,Delannoy Josette,31.0,Master,RH,0.0,Tech,13.3,67.4,3,1,1,0
+C0338,Roussel Richard,48.0,Master,Informatique,24.0,Finance,51.4,71.7,3,1,1,1
+C0339,Rivière David,24.0,Bac+3,Mécanique,4.0,Consulting,27.0,53.8,2,1,0,1
+C0340,Alves Bertrand,24.0,Bac+3,Marketing,1.0,Startup,0.9,30.8,2,1,0,0
+C0341,Adam Agnès,36.0,Bac+3,Informatique,13.0,Finance,64.5,47.2,2,1,0,0
+C0342,Dumont Philippe,30.0,bac,Informatique,7.0,Public,,43.5,3,1,1,0
+C0343,Bouchet Éric,31.0,Bac+3,Data Science,,Industrie,69.0,42.9,2,1,1,0
+C0344,Legendre Raymond,28.0,Bac,Informatique,5.0,Banque,75.0,73.7,2,1,1,1
+C0345,Paul Sophie,25.0,Bac,Informatique,7.0,Santé,62.5,74.9,2,,1,1
+C0346,Lenoir Georges,38.0,Bac+5,Commerce,10.0,Public,36.3,-5.0,3,1,1,0
+C0347,Martineau Élisabeth,40.0,Licence,Marketing,22.0,Tech,38.5,73.1,2,1,1,1
+C0348,Mathieu Vincent,38.0,Bac+3,RH,11.0,Industrie,45.5,41.3,2,0,1,1
+C0349,Renault Susanne,35.0,Doctorat,Informatique,20.0,Tech,83.5,77.3,2,1,0,1
+C0350,Diaz Paulette,29.0,Bac,Data Science,10.0,Consulting,56.8,71.9,2,1,1,0
+C0351,Descamps Thibault,40.0,Bac+5,Finance,1.0,Public,5.7,55.4,3,1,1,0
+C0352,Besnard Noël,30.0,Bac+5,Informatique,9.0,Industrie,100.0,62.1,2,1,1,0
+C0353,Thomas Éric,32.0,Bac+3,Informatique,14.0,Tech,75.0,74.9,2,1,0,1
+C0354,Marie Laure,25.0,,Informatique,-1.0,Santé,34.9,54.0,3,Oui,0,0
+C0355,Roussel Pauline,,Bac+5,Mécanique,43.0,Startup,55.0,69.9,1,1,1,1
+C0356,Besnard Virginie,34.0,Bac+3,Informatique,18.0,Tech,70.5,80.5,3,0,1,1
+C0357,Chevallier Thérèse,32.0,Bac,Informatique,,,67.2,60.0,3,Non,1,0
+C0358,Pelletier Margot,24.0,,Informatique,6.0,Banque,80.9,23.0,2,1,1,0
+C0359,Arnaud Thérèse,30.0,Bac+2,Data Science,12.0,Banque,64.2,58.7,2,1,1,1
+C0360,Payet Amélie,32.0,Master,Finance,6.0,,15.8,71.5,3,1,1,1
+C0361,Martin Arnaude,28.0,BAC+5,data,10.0,Aucun,53.4,63.2,2,0,0,1
+C0362,Lacroix Olivier,999.0,Bac+5,Data Science,265.0,Tech,100.0,63.0,3,1,1,1
+C0363,Thomas Susan,32.0,Bac+3,Ingénierie,9.0,Tech,38.6,78.1,3,1,0,0
+C0364,Delattre Gilles,40.0,Bac +2,Informatique,2.0,Banque,74.0,49.7,2,1,0,1
+C0365,Perez Jérôme,31.0,Bac+5,Autre,0.0,tech,36.9,74.4,3,1,1,0
+C0366,Regnier René,26.0,BAC+2,Informatique,8.0,Startup,61.1,87.3,2,1,1,0
+C0367,De Oliveira Jean,36.0,,Marketing,1.0,Startup,49.4,68.6,2,1,0,0
+C0368,Merle Amélie,38.0,Bac+3,Informatique,22.0,Finance,98.9,64.8,3,oui,1,1
+C0369,Schneider Christophe,34.0,Bac+5,Mécanique,9.0,Tech,34.8,64.7,1,0,0,1
+C0370,Laurent Gérard,31.0,Bac+5,Informatique,12.0,tech,55.3,58.3,3,1,1,0
+C0371,Colas Anaïs,48.0,,Ingénierie,26.0,Santé,49.9,65.3,1,1,1,1
+C0372,Da Costa Hélène,24.0,BAC+5,Ingénierie,0.0,Consulting,46.2,74.1,1,1,1,1
+C0373,Vincent Lucie,40.0,Master,Informatique,19.0,Industrie,90.8,59.4,2,1,1,1
+C0374,Parent Émilie,39.0,Bac+3,Data Science,17.0,Banque,91.6,83.3,2,0,1,1
+C0375,Delannoy Laurent,32.0,Bac+3,Autre,2.0,Aucun,40.7,62.2,1,1,1,0
+C0376,Ruiz Thierry,24.0,Bac+5,Data Science,4.0,Tech,44.3,58.1,2,1,0,0
+C0377,Godard Emmanuelle,44.0,BAC+5,Ingénierie,10.0,Startup,27.8,79.1,4,1,1,0
+C0378,Peltier Yves,30.0,BAC+2,Commerce,14.0,,29.7,66.3,1,1,0,1
+C0379,Simon Margot,27.0,BAC+5,Informatique,1.0,tech,77.2,41.3,2,1,0,1
+C0380,Rodrigues Thibault,37.0,Doctorat,Finance,18.0,Tech,69.7,55.5,2,1,1,0
+C0381,Jacquet Luc,26.0,Bac,info,8.0,Industrie,38.9,36.7,3,1,0,0
+C0382,Launay Marcel,31.0,Bac+5,Ingénierie,10.0,Industrie,28.9,42.7,1,1,1,0
+C0383,Mahe Benjamin,33.0,Bac+5,Finance,1.0,Tech,25.6,59.0,4,Non,0,0
+C0384,Briand Christophe,38.0,Bac+5,Autre,22.0,Tech,64.8,86.5,3,,0,1
+C0385,Brunet Jean,36.0,Master,Data Science,10.0,Finance,56.7,54.5,2,0,1,1
+C0386,Martineau Benoît,26.0,Bac+5,Finance,5.0,Public,36.5,41.7,3,1,1,0
+C0387,Dias Matthieu,25.0,Master,Ingénierie,0.0,Tech,47.1,999.0,3,1,1,1
+C0388,Andre Caroline,48.0,BAC+5,Informatique,24.0,Tech,77.0,80.1,1,1,1,1
+C0389,Delorme Laurent,47.0,Bac+3,info,30.0,Consulting,100.0,24.9,2,1,0,1
+C0390,Maréchal Hélène,42.0,Bac+2,Marketing,4.0,Santé,17.9,89.9,2,1,1,0
+C0391,Wagner Thérèse,30.0,Licence,Data Science,1.0,Banque,65.6,66.3,2,1,0,1
+C0392,Gay Michèle,31.0,Master,Finance,,Consulting,74.6,62.1,2,1,1,1
+C0393,Joubert Aimée,24.0,BAC+2,,2.0,Banque,31.2,82.5,1,1,1,1
+C0394,Sanchez Véronique,29.0,Bac+3,Autre,,Tech,51.8,46.0,1,1,0,1
+C0395,Fabre Emmanuel,27.0,Master,Informatique,6.0,Tech,68.5,41.0,3,0,1,0
+C0396,Navarro Augustin,28.0,BAC+5,Data Science,1.0,Industrie,69.6,100.0,2,1,1,1
+C0397,Joubert Thierry,26.0,BAC+5,Ingénierie,9.0,Consulting,47.0,60.8,3,Non,1,1
+C0398,Boutin Antoine,29.0,BAC+5,Autre,12.0,Public,49.3,82.0,1,Non,1,1
+C0399,Guillaume Margot,24.0,Bac+2,RH,5.0,Tech,18.7,66.4,2,0,0,0
+C0400,Da Silva Honoré,35.0,PhD,Informatique,6.0,Consulting,78.5,74.1,2,1,1,1
+C0401,Weiss Édith,41.0,Bac+5,Finance,27.0,Santé,83.8,82.9,3,1,1,1
+C0402,Perrin Michèle,28.0,Bac,Data Science,1.0,Public,37.4,38.4,2,0,,1
+C0403,Girard Virginie,35.0,Bac,Autre,9.0,Startup,65.1,71.7,4,1,1,0
+C0404,Bouchet Susanne,22.0,Bac+5,Informatique,2.0,Public,47.8,80.6,1,1,1,1
+C0405,Foucher Charlotte,31.0,Bac+2,Commerce,1.0,Industrie,6.9,59.0,2,1,1,0
+C0406,Chauvet Alice,24.0,Master,info,4.0,Finance,27.5,64.4,4,1,1,0
+C0407,Le Roux Margaud,38.0,Bac+3,Marketing,17.0,Public,34.4,74.7,1,oui,0,0
+C0408,Vidal Lucy,24.0,Bac +2,Ingénierie,25.0,Industrie,57.9,49.7,,oui,1,0
+C0409,Descamps Anne,29.0,Bac+3,Finance,10.0,Santé,35.4,65.6,3,1,0,1
+C0410,Gilbert Margaux,29.0,BAC+5,Data Science,4.0,Tech,46.9,65.8,2,1,1,0
+C0411,Bazin François,28.0,BAC+2,Data Science,4.0,Consulting,55.4,75.0,3,Oui,1,1
+C0412,Fernandez Benjamin,28.0,Bac+3,Informatique,4.0,Public,66.8,66.5,1,1,1,1
+C0413,Fabre Henri,32.0,BAC+5,Ingénierie,9.0,Finance,59.7,81.4,1,1,1,1
+C0414,Descamps Suzanne,27.0,Master,Data Science,8.0,Finance,70.4,83.4,2,1,1,0
+C0415,Weiss Grégoire,24.0,Bac+3,Data Science,1.0,Tech,75.1,65.8,3,1,1,0
+C0416,Munoz Margaud,39.0,Licence,Finance,21.0,Santé,55.1,84.8,2,1,1,1
+C0417,Guillon Thibaut,34.0,Bac,Autre,0.0,Tech,45.8,48.7,2,1,1,1
+C0418,Marchal Danielle,33.0,Bac+2,Finance,3.0,Banque,3.9,69.8,2,1,1,0
+C0419,De Oliveira Maryse,38.0,Bac+5,Data Science,0.0,Finance,36.2,48.3,1,1,0,1
+C0420,Charles Roland,30.0,Bac+3,Autre,10.0,Startup,,55.2,2,1,1,0
+C0421,Bouchet Camille,28.0,Bac+3,info,4.0,Banque,35.2,47.6,deux,1,1,0
+C0422,Gonzalez Élisabeth,27.0,Bac+5,RH,6.0,,43.8,81.0,2,,0,1
+C0423,Evrard Camille,33.0,Master,Informatique,12.0,Startup,85.6,86.6,2,1,1,1
+C0424,Peltier Emmanuelle,31.0,BAC+5,Autre,0.0,Finance,5.5,42.3,4,0,1,0
+C0425,Robin Dominique,32.0,Bac,Mécanique,4.0,Consulting,28.6,89.6,2,1,1,0
+C0426,Bernard Inès,43.0,Master,RH,14.0,Aucun,72.6,76.9,3,1,0,1
+C0427,Texier Mathilde,25.0,Bac,Informatique,6.0,Startup,80.5,52.7,2,0,1,0
+C0428,Meunier Dorothée,38.0,Bac+3,Informatique,14.0,Santé,-10.0,91.7,3,0,1,1
+C0429,Thierry Jeannine,31.0,Master,Ingénierie,5.0,Industrie,19.3,67.2,1,1,1,0
+C0430,Dupré Joséphine,25.0,Doctorat,RH,8.0,Startup,42.4,72.8,2,1,0,0
+C0431,Roussel Cécile,34.0,,Ingénierie,11.0,Public,27.1,52.1,2,,0,0
+C0432,Bègue Paul,42.0,Bac+3,Marketing,28.0,Consulting,53.3,80.2,1,1,1,1
+C0433,Toussaint Susanne,25.0,Bac+2,Mécanique,3.0,Startup,10.1,62.8,3,1,0,0
+C0434,Courtois Christiane,27.0,Bac+2,Commerce,9.0,Santé,57.0,74.6,3,Oui,0,0
+C0435,Martinez Alix,29.0,Bac,RH,,Industrie,39.4,67.8,3,1,0,1
+C0436,Collet Susan,33.0,Bac+3,Ingénierie,17.0,Santé,61.0,40.7,1,oui,1,0
+C0437,Chrétien Chantal,42.0,BAC+5,Commerce,22.0,Tech,84.3,60.2,1,0,0,1
+C0438,Besson Madeleine,23.0,Bac+5,Informatique,6.0,Finance,69.9,60.4,3,0,0,0
+C0439,Rousset Roland,25.0,Doctorat,Ingénierie,1.0,Consulting,23.0,48.8,4,1,1,1
+C0440,Tanguy Paulette,28.0,Bac,Informatique,3.0,Consulting,52.4,81.9,1,0,1,0
+C0441,Thibault Jacqueline,37.0,Bac +2,Finance,13.0,Public,27.5,84.0,2,Non,0,1
+C0442,Gilles Simone,33.0,Bac+5,Ingénierie,6.0,Industrie,,76.1,1,1,,0
+C0443,Maillot Louis,36.0,Bac+2,,15.0,Finance,57.2,56.1,1,1,0,0
+C0444,Roy Augustin,34.0,Bac+5,Ingénierie,10.0,Tech,33.2,36.9,3,1,1,1
+C0445,Besson Bernard,27.0,Bac+3,Data Science,8.0,Tech,44.9,83.1,deux,1,1,0
+C0446,Mary Étienne,22.0,Bac+5,Informatique,2.0,Consulting,55.3,68.0,3,0,0,1
+C0447,Marin Suzanne,28.0,Bac,Ingénierie,5.0,,22.0,56.8,2,1,0,0
+C0448,Guichard Olivie,,Bac+5,Finance,1.0,Aucun,,63.0,2,0,1,0
+C0449,De Oliveira Margaud,37.0,Master,Commerce,6.0,Industrie,35.8,72.7,2,1,0,1
+C0450,Schmitt François,41.0,Bac+3,Informatique,25.0,Industrie,74.6,66.9,2,1,1,0
+C0451,Descamps Laure,31.0,Bac+3,Finance,1.0,Tech,37.9,73.1,3,1,1,0
+C0452,Legrand Nicolas,32.0,Bac+5,Marketing,13.0,Tech,15.0,63.7,3,1,1,0
+C0453,Baudry Alice,31.0,BAC+2,Finance,8.0,,43.8,72.6,2,1,0,0
+C0454,Dufour Corinne,33.0,BAC+2,Marketing,12.0,Aucun,52.1,69.6,2,1,1,1
+C0455,Potier Michèle,37.0,Bac +2,Informatique,,Tech,40.5,83.9,2,1,1,1
+C0456,Perrin Paulette,,Bac,Marketing,37.0,Finance,74.0,70.6,3,1,1,1
+C0457,Coulon Édith,25.0,Bac+5,Ingénierie,1.0,Santé,1.8,76.6,2,0,1,0
+C0458,Boulay Nicolas,,BAC+5,Finance,47.0,Public,79.8,77.8,1,Oui,0,1
+C0459,Techer Stéphanie,42.0,Bac+3,,25.0,Startup,84.9,59.4,1,1,1,1
+C0460,Hardy Colette,29.0,Bac+3,Informatique,8.0,Santé,55.3,78.0,4,1,1,1
+C0461,Daniel Thomas,31.0,Master,Informatique,15.0,Industrie,61.0,70.7,1,0,1,0
+C0462,Texier Louise,22.0,Bac+3,Marketing,4.0,Startup,46.0,62.9,3,1,1,1
+C0463,Delattre Simone,26.0,Bac +2,Ingénierie,8.0,Tech,40.9,66.9,2,1,0,1
+C0464,Ledoux Manon,39.0,Bac+5,Finance,8.0,,61.0,50.4,1,1,1,0
+C0465,Da Costa Yves,,Master,Marketing,17.0,Consulting,48.2,35.4,2,1,1,0
+C0466,Labbé Christine,43.0,Doctorat,Finance,19.0,Public,,80.3,3,1,1,0
+C0467,Schmitt Noël,31.0,Doctorat,Marketing,12.0,Santé,46.2,72.9,4,1,0,1
+C0468,Henry Nathalie,43.0,bac,Data Science,30.0,Aucun,85.8,72.1,3,1,1,1
+C0469,Mendès Zoé,25.0,Bac+3,info,4.0,Banque,100.0,60.6,4,0,1,1
+C0470,Vincent Marie,31.0,Bac +2,Commerce,12.0,Tech,59.5,50.2,1,1,1,0
+C0471,Blondel Michèle,23.0,Bac+5,Finance,0.0,Banque,,76.4,deux,0,0,1
+C0472,Becker Guy,30.0,Bac,Informatique,0.0,Tech,41.3,52.7,2,0,1,0
+C0473,Tessier Augustin,24.0,Master,Data Science,5.0,Tech,41.5,40.4,3,1,0,0
+C0474,Joly William,37.0,Bac+3,Ingénierie,4.0,Finance,45.0,70.5,1,0,1,1
+C0475,Delahaye Jacques,31.0,Bac+5,Commerce,4.0,Industrie,20.6,71.1,4,1,1,1
+C0476,Pottier Marianne,25.0,Bac,Informatique,1.0,Banque,67.2,80.6,2,0,1,1
+C0477,Alexandre Noémi,39.0,Bac+5,Autre,16.0,Banque,55.7,58.5,2,1,0,0
+C0478,Colin Pénélope,25.0,Bac +2,Ingénierie,2.0,Industrie,30.3,59.6,2,0,1,0
+C0479,Pascal Paul,37.0,Licence,Informatique,-5.0,Finance,37.6,70.7,2,1,0,0
+C0480,Grégoire Marcelle,33.0,Licence,RH,8.0,Banque,43.6,70.3,2,1,0,0
+C0481,Vidal Pénélope,45.0,Bac+5,Finance,22.0,Startup,44.8,67.7,1,1,1,1
+C0482,Vallée Constance,32.0,Bac,Marketing,0.0,Tech,31.1,65.0,3,1,1,0
+C0483,Laroche Aimé,34.0,Bac+5,Finance,15.0,Industrie,64.5,56.7,3,0,1,0
+C0484,Lelièvre Honoré,30.0,Master,Ingénierie,8.0,Finance,33.5,71.1,1,1,1,0
+C0485,Baron Adèle,29.0,Bac+2,RH,5.0,Startup,18.8,70.2,3,0,0,1
+C0486,Labbé Corinne,41.0,BAC+5,Informatique,3.0,Industrie,94.0,80.3,2,1,1,1
+C0487,Diaz Brigitte,24.0,Bac+5,Commerce,4.0,Industrie,22.3,95.0,2,oui,1,0
+C0488,Jean Daniel,27.0,Bac+5,Marketing,8.0,Banque,24.4,57.0,2,1,1,0
+C0489,Launay Océane,31.0,Bac,,7.0,,53.2,60.2,3,1,1,1
+C0490,Georges Anastasie,28.0,Bac+2,Informatique,8.0,Startup,74.4,64.7,3,1,0,1
+C0491,Julien Benoît,30.0,Bac+3,Marketing,0.0,Finance,31.6,81.3,3,1,1,0
+C0492,Diaz Aurélie,28.0,Bac,RH,6.0,Finance,38.2,66.3,4,oui,0,0
+C0493,Delattre Marthe,33.0,Bac+2,Commerce,6.0,Tech,49.9,75.8,3,1,0,1
+C0494,Blanc Victor,34.0,Licence,Commerce,11.0,,32.2,64.0,1,1,1,0
+C0495,Hebert Célina,31.0,Bac+5,Autre,4.0,Industrie,53.2,83.7,2,1,0,1
+C0496,Garcia Frédéric,29.0,Bac,RH,12.0,Finance,58.1,56.8,3,1,0,1
+C0497,Morel Michèle,25.0,BAC+5,Finance,7.0,Consulting,60.7,74.3,2,1,1,0
+C0498,Benard Aimée,27.0,Bac,Ingénierie,0.0,Public,35.9,32.3,1,OUI,0,0
+C0499,Lebrun Renée,39.0,Bac+5,Marketing,22.0,Tech,53.8,62.6,3,oui,0,0
+C0500,Dupuis Martine,31.0,BAC+5,Commerce,10.0,Consulting,999.0,73.9,2,OUI,1,1
+C0501,Lévy Marine,34.0,Bac,Informatique,13.0,Santé,51.3,64.7,2,OUI,0,1
+C0502,Maillet Gabrielle,39.0,BAC+5,Ingénierie,10.0,tech,37.5,56.5,4,1,0,0
+C0503,Ollivier Nathalie,23.0,Bac,,1.0,Tech,64.4,100.0,1,1,1,0
+C0504,Lecoq Valentine,33.0,Bac+2,Data Science,7.0,Industrie,56.1,70.4,deux,1,0,0
+C0505,Pruvost Marine,33.0,Bac+5,Finance,16.0,,28.8,72.3,2,1,1,0
+C0506,Leblanc Margot,35.0,Bac+5,RH,6.0,Tech,58.0,54.6,2,1,1,0
+C0507,Rey Arthur,44.0,Bac,Finance,23.0,Tech,73.3,49.0,2,1,0,1
+C0508,Gonzalez Gilbert,31.0,Master,data,3.0,Banque,35.3,-5.0,3,1,1,0
+C0509,Guibert Caroline,28.0,Bac+5,Finance,12.0,Banque,64.0,67.8,,0,1,0
+C0510,Renaud Sylvie,26.0,Licence,,0.0,tech,24.8,61.9,1,1,1,0
+C0511,Labbé Virginie,28.0,Bac+5,Marketing,2.0,,69.2,64.9,2,1,0,0
+C0512,Lelièvre Aurélie,40.0,Bac+3,Ingénierie,17.0,Tech,32.0,65.3,2,1,0,0
+C0513,Riou Virginie,24.0,Bac+5,Informatique,2.0,,50.0,81.9,3,1,1,0
+C0514,Garcia Adèle,32.0,Licence,Finance,5.0,tech,41.2,80.2,3,Oui,0,1
+C0515,Delahaye Gilbert,28.0,Bac+2,Commerce,11.0,Startup,36.8,73.8,deux,1,0,1
+C0516,Royer Agathe,30.0,Master,Informatique,1.0,tech,62.8,58.1,2,1,1,0
+C0517,Devaux Thierry,31.0,Bac,Mécanique,4.0,Industrie,30.6,64.8,2,1,1,1
+C0518,Parent David,27.0,Bac+5,Data Science,4.0,tech,32.0,62.0,2,Oui,0,1
+C0519,Perrot Lucas,32.0,BAC+5,Marketing,9.0,Consulting,33.0,54.0,2,Oui,1,0
+C0520,Rousseau Georges,41.0,Bac+2,Marketing,10.0,tech,50.4,59.8,2,1,1,0
+C0521,Pascal Gilbert,46.0,Doctorat,Autre,,Tech,44.8,94.5,1,0,1,1
+C0522,Blondel Alain,47.0,Bac+2,Ingénierie,23.0,Tech,65.3,51.1,3,Non,1,1
+C0523,Brunel Claire,24.0,Bac+2,Mécanique,7.0,Tech,46.9,65.3,2,1,1,0
+C0524,Buisson Astrid,38.0,BAC+5,Marketing,22.0,Finance,56.7,58.7,2,0,0,1
+C0525,Alexandre Maryse,,Bac+5,Marketing,48.0,tech,87.7,82.2,3,1,0,1
+C0526,Didier Christophe,27.0,Bac+3,Commerce,,aucun,52.8,72.7,1,1,0,0
+C0527,Roche Jules,27.0,Bac+2,Informatique,4.0,Finance,83.1,35.5,2,1,1,0
+C0528,Lévêque Michel,38.0,Master,Marketing,999.0,Banque,100.0,63.3,2,0,1,1
+C0529,Boulanger Marthe,33.0,BAC+5,Informatique,12.0,aucun,63.6,60.5,2,Oui,1,1
+C0530,Legros Nathalie,29.0,Bac+5,Finance,11.0,Finance,36.1,86.4,1,0,0,0
+C0531,Camus Gabriel,28.0,Master,Autre,3.0,Startup,18.9,56.0,2,Non,1,0
+C0532,Delaunay David,37.0,BAC+5,Commerce,20.0,Consulting,33.9,59.7,2,1,1,0
+C0533,Pelletier Danielle,29.0,Licence,Commerce,8.0,Industrie,54.5,30.9,1,1,1,0
+C0534,Mallet François,42.0,Bac+3,Mécanique,13.0,Santé,52.3,53.1,3,1,1,1
+C0535,Pierre Pierre,36.0,BAC+2,Ingénierie,18.0,Startup,62.1,99.1,2,0,0,1
+C0536,Blanc Marine,35.0,Master,Mécanique,17.0,Finance,30.1,52.1,3,1,1,1
+C0537,Mathieu Alexandrie,41.0,Bac,Marketing,27.0,Public,53.0,81.1,2,1,0,1
+C0538,Roger Laurent,32.0,Bac+3,Marketing,12.0,,45.0,63.1,1,0,1,0
+C0539,Perez Christophe,24.0,Bac+3,Finance,6.0,tech,44.1,52.0,1,1,0,1
+C0540,Briand Thérèse,37.0,Bac+5,Informatique,6.0,tech,57.6,58.8,,0,1,1
+C0541,Imbert Marcelle,38.0,bac,Data Science,11.0,Banque,86.5,40.6,1,1,1,1
+C0542,Pons Nathalie,33.0,Bac,Finance,13.0,Tech,52.5,66.7,3,1,1,1
+C0543,Nguyen Caroline,26.0,Bac+3,Autre,7.0,Banque,28.5,86.2,2,0,0,0
+C0544,Delannoy Augustin,30.0,Bac+2,Commerce,1.0,tech,24.8,34.5,3,1,1,0
+C0545,Legros Bernard,29.0,Bac+3,Ingénierie,8.0,Finance,0.0,64.2,2,0,1,0
+C0546,Gauthier Théophile,27.0,Bac+5,Autre,1.0,aucun,24.8,63.3,3,Oui,1,0
+C0547,Guillou Anaïs,35.0,Bac+5,RH,8.0,,23.9,33.5,2,0,1,0
+C0548,Mallet Victoire,30.0,Bac+5,Informatique,1.0,,61.2,80.9,3,1,0,1
+C0549,Foucher Xavier,28.0,Master,Marketing,5.0,Industrie,20.0,64.0,2,1,1,0
+C0550,Tessier Adèle,30.0,Bac,Finance,13.0,Consulting,31.3,43.8,2,1,1,1
+C0551,Andre Xavier,32.0,Bac,Marketing,,Industrie,52.6,63.6,2,oui,0,1
+C0552,Seguin Julien,33.0,Bac+3,Commerce,12.0,Consulting,68.8,,2,0,1,0
+C0553,Mathieu André,25.0,Bac+5,Marketing,7.0,Consulting,28.3,65.7,1,1,1,1
+C0554,Hebert Anaïs,41.0,PhD,Commerce,17.0,Aucun,52.2,71.2,3,0,1,1
+C0555,Charrier Tristan,31.0,Bac+5,Informatique,,,98.5,83.1,2,1,1,1
+C0556,David Valérie,30.0,Bac+5,Commerce,0.0,Startup,39.6,68.5,2,oui,1,1
+C0557,Martins Suzanne,26.0,Bac+5,Marketing,0.0,Public,48.3,61.6,3,1,1,1
+C0558,Renault Thomas,32.0,Master,Ingénierie,4.0,Tech,,76.9,2,,0,0
+C0559,Boutin Sébastien,28.0,Bac,Marketing,11.0,Industrie,47.9,86.0,2,Oui,1,0
+C0560,Fernandes Timothée,37.0,Master,RH,6.0,Finance,32.8,44.3,2,0,1,0
+C0561,Texier Charlotte,31.0,Bac+5,Finance,4.0,Banque,19.6,72.0,4,1,1,0
+C0562,Alves Maurice,41.0,Master,Finance,8.0,Startup,39.2,51.8,1,1,1,0
+C0563,Joubert Olivie,34.0,Bac+5,Ingénierie,19.0,Banque,78.8,62.1,4,1,1,1
+C0564,Fontaine Laetitia,999.0,Bac+3,Ingénierie,161.0,Consulting,100.0,63.7,3,1,1,1
+C0565,Georges Virginie,25.0,Bac,RH,,Finance,33.2,61.8,2,1,0,1
+C0566,Meyer Marc,32.0,Bac+3,Finance,13.0,Tech,27.5,80.6,2,1,1,1
+C0567,Rémy Olivier,38.0,Bac,Marketing,14.0,Industrie,46.5,56.4,2,,1,1
+C0568,Bonnin Christelle,24.0,Bac+3,Mécanique,2.0,tech,26.9,51.3,1,1,1,1
+C0569,Pascal Matthieu,38.0,Licence,Informatique,1.0,Industrie,49.0,63.2,2,0,0,1
+C0570,Langlois Philippine,29.0,Bac+3,Data Science,6.0,Tech,57.4,47.4,1,1,0,0
+C0571,Goncalves Louis,28.0,Bac+5,Marketing,7.0,Startup,24.1,55.9,2,0,1,1
+C0572,Barthelemy Christine,31.0,Bac+2,Finance,,Tech,21.6,70.1,3,1,0,0
+C0573,Rémy Christelle,24.0,Doctorat,Ingénierie,1.0,Finance,0.0,83.4,1,,1,0
+C0574,Toussaint Caroline,31.0,Master,Data Science,,Aucun,57.8,72.1,3,1,1,0
+C0575,Barthelemy Susan,24.0,PhD,Informatique,2.0,Tech,51.1,61.0,4,oui,1,0
+C0576,Dupuy Bernadette,40.0,Bac +2,Data Science,25.0,Finance,90.1,64.2,2,Oui,1,1
+C0577,Fouquet Théodore,45.0,Bac+3,Data Science,16.0,Aucun,70.6,59.0,3,1,0,0
+C0578,Chevalier Manon,33.0,Bac+5,Informatique,8.0,Industrie,67.3,77.3,2,1,1,1
+C0579,Carlier Chantal,39.0,Master,Ingénierie,6.0,Public,45.2,63.0,1,1,0,1
+C0580,Perrin Juliette,46.0,Bac+3,Informatique,4.0,Industrie,55.9,69.0,1,Non,1,0
+C0581,Lebrun Alex,25.0,bac,Ingénierie,8.0,aucun,58.6,71.3,1,0,0,0
+C0582,Moreno Geneviève,40.0,Bac+5,Marketing,18.0,Santé,44.9,61.9,2,oui,1,1
+C0583,Raymond Éléonore,29.0,Bac+5,Autre,7.0,Startup,42.9,78.6,3,1,0,1
+C0584,Dumont Nicolas,46.0,,Commerce,10.0,Public,53.3,76.4,2,0,0,1
+C0585,Becker Bertrand,43.0,Bac+3,Informatique,3.0,Santé,76.0,57.1,3,1,1,1
+C0586,Renard Marthe,,BAC+5,RH,33.0,Banque,71.2,84.5,2,0,0,1
+C0587,Delattre Sophie,28.0,Bac+3,Commerce,7.0,Tech,50.8,78.8,2,1,1,0
+C0588,Grégoire Capucine,35.0,Bac+2,Finance,14.0,Public,29.3,58.1,3,1,1,0
+C0589,Labbé Juliette,27.0,BAC+5,data,9.0,Tech,55.1,71.2,3,1,1,1
+C0590,Maillard Julie,36.0,BAC+5,Commerce,1.0,Consulting,14.5,95.7,2,1,0,1
+C0591,Huet Philippine,33.0,Bac,Ingénierie,18.0,Finance,,80.5,2,1,0,1
+C0592,Charpentier Jérôme,,Licence,Informatique,38.0,Tech,100.0,42.9,2,0,0,1
+C0593,Dijoux Noël,28.0,Bac +2,Data Science,6.0,Tech,44.6,73.6,3,1,0,0
+C0594,Rocher Arnaude,26.0,Bac,Data Science,,Santé,51.3,86.0,2,1,0,1
+C0595,Gallet Émile,35.0,BAC+5,Data Science,14.0,Tech,62.9,64.6,2,1,1,1
+C0596,Guillon Alice,22.0,,Finance,3.0,Tech,34.6,56.1,3,1,1,0
+C0597,Lévy Christophe,25.0,Master,Commerce,5.0,Banque,33.1,70.8,4,oui,0,1
+C0598,Tessier Chantal,30.0,Bac+3,Commerce,2.0,Banque,39.1,72.2,1,0,0,1
+C0599,Lemonnier Louise,30.0,Bac+5,Data Science,14.0,Startup,59.8,67.8,deux,1,1,1
+C0600,Dufour Jean,34.0,BAC+5,Mécanique,14.0,Consulting,9.5,74.3,2,Oui,0,1
+C0601,Barre Martine,27.0,Bac+5,Data Science,3.0,Finance,47.4,72.7,2,1,1,0
+C0602,Pruvost Gilbert,43.0,BAC+5,Data Science,,Startup,42.3,80.4,1,1,1,1
+C0603,Joly Susanne,23.0,Bac+2,Mécanique,3.0,Santé,30.6,95.9,1,1,1,0
+C0604,Bailly Arnaude,-5.0,Bac+5,Ingénierie,0.0,Tech,34.2,56.3,3,1,1,0
+C0605,Meyer Isaac,40.0,Licence,Autre,16.0,Tech,60.1,79.5,3,oui,1,0
+C0606,De Sousa René,30.0,bac,Ingénierie,6.0,Startup,,58.9,2,1,0,0
+C0607,Chauvet Nicolas,27.0,Bac+5,Informatique,3.0,Banque,36.9,91.1,2,Oui,1,1
+C0608,Raymond Thérèse,33.0,Doctorat,RH,18.0,Banque,48.8,34.8,2,1,0,1
+C0609,Pierre Théodore,39.0,Bac+3,Ingénierie,20.0,Finance,78.4,51.4,4,1,0,1
+C0610,Aubert Jacqueline,31.0,Doctorat,Finance,1.0,Consulting,56.2,57.9,3,1,0,1
+C0611,Valentin Benoît,31.0,Bac+3,Marketing,11.0,Startup,42.9,67.4,3,0,0,1
+C0612,Hamel Thierry,23.0,Bac,Marketing,3.0,Industrie,41.2,73.9,3,0,1,0
+C0613,Lecoq Léon,31.0,Bac+3,Ingénierie,8.0,Startup,77.0,51.2,1,0,1,0
+C0614,Bourdon Caroline,33.0,Bac+2,Informatique,2.0,Aucun,76.4,79.8,2,Oui,0,1
+C0615,Michel Jules,31.0,BAC+5,Data Science,15.0,Industrie,55.6,75.8,2,1,1,1
+C0616,Leroux Pénélope,31.0,Bac,Informatique,8.0,Industrie,64.8,69.2,4,,1,1
+C0617,Le Roux Laurence,37.0,Licence,Informatique,1.0,Consulting,31.9,55.5,3,1,0,1
+C0618,Chartier Suzanne,,BAC+5,Ingénierie,48.0,Aucun,99.8,94.3,3,1,1,1
+C0619,Renard Victor,25.0,Bac+2,Data Science,,Public,66.4,67.5,1,1,1,1
+C0620,Fournier Eugène,23.0,Bac+5,Ingénierie,5.0,Industrie,48.2,53.5,2,0,1,1
+C0621,Berger Augustin,22.0,Bac+5,Data Science,0.0,tech,41.8,66.6,2,1,0,1
+C0622,Perrot Martin,24.0,Bac+5,Autre,4.0,Finance,60.9,60.7,3,oui,1,0
+C0623,Perez Jérôme,24.0,Bac+2,,6.0,Public,45.9,81.3,2,1,1,1
+C0624,Pinto Bernadette,35.0,BAC+5,Marketing,8.0,Tech,17.4,100.0,2,0,0,0
+C0625,Giraud Étienne,37.0,Bac+2,Marketing,6.0,Startup,53.3,86.0,3,1,0,0
+C0626,Berthelot Édith,29.0,Bac+2,Finance,13.0,Industrie,22.7,44.2,2,1,1,1
+C0627,Girard Julie,26.0,Bac+3,Data Science,9.0,Consulting,,87.6,1,1,1,1
+C0628,Descamps Noël,31.0,Doctorat,Finance,1.0,Tech,26.4,59.1,4,1,0,0
+C0629,Bègue François,28.0,Bac+5,Autre,10.0,Banque,41.0,50.3,,0,0,1
+C0630,Legros Honoré,27.0,Bac+3,Finance,4.0,Finance,24.2,75.9,4,1,0,0
+C0631,Gomez Margot,32.0,Bac +2,Autre,14.0,Startup,31.4,,3,Oui,1,1
+C0632,Le Gall Jean,43.0,Bac+2,Autre,25.0,Consulting,81.3,60.2,2,0,1,1
+C0633,Lebreton Paulette,28.0,Bac+2,Ingénierie,11.0,Tech,31.7,57.3,2,1,1,0
+C0634,Rodriguez Inès,26.0,Licence,Ingénierie,1.0,Tech,64.5,87.8,1,Non,,0
+C0635,Tessier Nathalie,37.0,Bac+3,Data Science,21.0,Startup,74.7,53.6,1,Oui,1,1
+C0636,Alexandre Alphonse,43.0,BAC+5,Marketing,10.0,Finance,47.1,69.7,4,1,0,1
+C0637,Chauvet Claire,44.0,Bac+2,Finance,22.0,Tech,9999.0,75.7,2,1,1,1
+C0638,Langlois Aurore,31.0,Bac+2,Ingénierie,3.0,Tech,7.6,75.7,,0,1,1
+C0639,Lesage Monique,23.0,Bac+2,Data Science,999.0,Tech,100.0,63.8,2,Non,0,0
+C0640,Brunel Hugues,38.0,Bac+3,Commerce,9.0,Industrie,68.6,71.4,1,1,1,1
+C0641,Colas Guy,33.0,Bac+2,info,18.0,Startup,60.5,80.8,2,,1,1
+C0642,Olivier Michel,49.0,Bac+5,Finance,12.0,Finance,59.0,83.1,3,1,1,1
+C0643,Ribeiro Noémi,36.0,Bac+3,,13.0,Santé,12.0,79.8,3,1,,0
+C0644,Maillet Sophie,28.0,Bac+5,Commerce,5.0,Banque,55.4,72.5,,1,1,1
+C0645,Besnard Corinne,33.0,Doctorat,Informatique,7.0,Tech,92.5,72.3,1,1,0,1
+C0646,Rodrigues Margaret,35.0,Bac +2,Finance,10.0,Santé,64.5,69.1,3,1,0,0
+C0647,Coste Martine,37.0,Bac+5,Informatique,,Santé,26.2,73.8,1,1,1,0
+C0648,Philippe Hugues,30.0,Bac,info,7.0,,59.0,49.2,3,1,0,1
+C0649,Laporte Jean,36.0,Bac+3,,15.0,Santé,94.7,58.7,3,,1,1
+C0650,Grondin Colette,39.0,Bac,Finance,25.0,Consulting,85.5,62.9,3,0,0,1
+C0651,Vallet Georges,,Bac+2,Autre,7.0,Aucun,70.2,40.3,4,1,1,1
+C0652,Gauthier Thibaut,38.0,Bac+2,Data Science,16.0,,85.3,80.5,3,1,1,1
+C0653,Techer Joseph,32.0,Bac+5,Ingénierie,0.0,Banque,49.2,52.5,1,Oui,1,0
+C0654,Bonnin Alfred,34.0,Master,Finance,6.0,Santé,35.9,63.7,2,1,0,1
+C0655,Didier Michelle,42.0,Bac+5,Marketing,,Startup,36.5,77.3,3,1,0,0
+C0656,Gosselin Lorraine,43.0,bac,info,19.0,Santé,68.0,76.1,2,1,1,1
+C0657,Laroche Anne,23.0,BAC+5,data,1.0,Consulting,6.9,57.5,3,Non,1,0
+C0658,Grondin Françoise,42.0,Bac,Commerce,1.0,Aucun,0.0,61.1,2,0,1,0
+C0659,Diaz Susanne,0.0,PhD,Marketing,0.0,Finance,26.0,64.3,4,1,1,0
+C0660,Grondin Sophie,25.0,BAC+2,RH,5.0,Tech,42.3,55.2,1,0,0,0
+C0661,Legendre Aurore,27.0,Bac+5,Autre,9.0,Santé,75.3,84.1,2,1,0,1
+C0662,Wagner Denis,29.0,Bac+3,RH,4.0,Tech,69.4,60.0,1,1,1,0
+C0663,Royer Philippe,37.0,,Informatique,11.0,Finance,73.2,62.1,2,0,1,1
+C0664,Guilbert Théophile,23.0,Bac+2,Commerce,6.0,Public,39.5,92.0,4,1,0,0
+C0665,Da Costa Noël,48.0,BAC+5,Informatique,19.0,Banque,81.7,79.0,1,1,1,1
+C0666,Fernandes Laure,25.0,Master,RH,5.0,Startup,57.4,,2,1,1,0
+C0667,Martins Laurent,36.0,,Informatique,9.0,Startup,57.9,76.8,2,1,0,1
+C0668,Petit Margaud,32.0,Bac+3,RH,4.0,Santé,23.2,57.6,2,0,1,0
+C0669,Mendès Éric,45.0,BAC+2,Data Science,-5.0,,38.2,65.8,2,0,1,0
+C0670,Lejeune Denise,33.0,Bac,Marketing,15.0,Santé,40.5,87.4,2,1,0,1
+C0671,Hernandez Claire,25.0,Bac+2,Informatique,3.0,Industrie,71.8,30.7,2,1,0,1
+C0672,Guérin Julien,32.0,bac,Informatique,11.0,Consulting,89.1,90.5,4,1,1,1
+C0673,Turpin Tristan,22.0,Bac+3,Informatique,3.0,Finance,44.5,49.0,3,1,1,0
+C0674,Bodin David,38.0,Bac,Data Science,7.0,Finance,48.5,88.4,1,1,0,1
+C0675,Nguyen Émilie,39.0,Bac+3,Ingénierie,21.0,,26.5,74.6,deux,Oui,1,0
+C0676,Ruiz Étienne,27.0,Bac +2,Ingénierie,1.0,Tech,1.4,51.2,3,1,0,0
+C0677,Samson Catherine,26.0,Bac+5,Data Science,0.0,Banque,33.9,49.9,3,0,1,0
+C0678,Diaz André,41.0,Bac+3,Data Science,,Consulting,75.1,999.0,3,1,0,1
+C0679,Blanchard Rémy,27.0,Bac+2,Data Science,3.0,Startup,39.1,68.2,1,1,1,0
+C0680,Daniel Gilbert,30.0,Bac+5,Autre,4.0,Santé,45.2,62.3,2,1,0,1
+C0681,Besnard Suzanne,33.0,Bac+3,Finance,12.0,Santé,43.9,,2,,1,0
+C0682,Bouvet Nath,28.0,Bac+5,Informatique,6.0,Tech,91.2,73.2,2,0,1,0
+C0683,Bigot Claude,30.0,BAC+5,Marketing,5.0,tech,-10.0,61.0,3,1,0,1
+C0684,Hernandez Gabriel,33.0,Bac+5,Informatique,10.0,Industrie,80.7,87.8,3,Non,1,1
+C0685,Grenier Clémence,30.0,,Informatique,11.0,Tech,999.0,-5.0,1,0,0,1
+C0686,Voisin Adèle,42.0,Bac,Commerce,7.0,Aucun,49.4,71.5,2,1,0,0
+C0687,Guichard Claude,37.0,Bac+2,Autre,10.0,Aucun,46.9,67.3,2,1,1,0
+C0688,Denis Nicolas,25.0,Bac +2,Data Science,8.0,Industrie,87.6,100.0,1,1,0,1
+C0689,Pelletier Martine,29.0,Bac+5,Data Science,13.0,Banque,56.7,48.9,1,0,1,1
+C0690,Adam René,28.0,Bac+5,Data Science,12.0,Finance,74.1,73.0,2,,1,0
+C0691,Baudry Édith,39.0,PhD,Informatique,23.0,,89.4,79.2,2,1,1,1
+C0692,Morin François,,bac,Commerce,32.0,tech,60.4,58.5,3,1,1,0
+C0693,Petit Lucy,33.0,BAC+2,Autre,11.0,Aucun,47.9,81.9,2,0,0,1
+C0694,Delannoy Adélaïde,34.0,Master,Finance,9.0,Finance,999.0,69.7,4,1,0,1
+C0695,Besson Victoire,33.0,Bac+2,Ingénierie,10.0,Tech,91.8,85.8,2,1,1,0
+C0696,Lebreton Caroline,24.0,Doctorat,Informatique,0.0,Industrie,7.9,85.2,2,1,1,1
+C0697,Chevallier Henri,26.0,Bac+5,Informatique,999.0,Finance,100.0,70.8,2,1,1,1
+C0698,Colin Olivier,39.0,Master,Data Science,5.0,Industrie,65.5,75.9,2,Non,1,1
+C0699,Colin Manon,41.0,Bac+3,Marketing,19.0,Tech,45.5,69.4,3,1,1,0
+C0700,Parent Xavier,36.0,Bac,Ingénierie,14.0,Aucun,,70.4,3,1,1,0
+C0701,Leclerc Michelle,39.0,BAC+2,Autre,13.0,Public,50.1,50.3,3,1,0,0
+C0702,Sauvage Olivie,28.0,Doctorat,Data Science,5.0,Santé,55.5,45.8,1,1,1,1
+C0703,Meunier Sylvie,34.0,Bac+5,Ingénierie,6.0,Industrie,47.9,81.7,2,1,0,0
+C0704,Merle Margot,42.0,Bac+5,Ingénierie,17.0,Tech,67.4,70.0,,1,1,1
+C0705,Lévy Patrick,26.0,Master,info,3.0,Consulting,81.7,73.4,2,1,1,1
+C0706,Gallet Susan,38.0,Master,Informatique,10.0,,52.6,72.8,2,1,1,1
+C0707,Gilbert Alix,27.0,Bac,Informatique,8.0,Industrie,73.4,78.8,2,0,1,0
+C0708,Hoareau Isaac,45.0,Bac +2,Finance,12.0,Tech,,98.1,3,0,1,0
+C0709,Poirier Henriette,34.0,Licence,Informatique,14.0,Banque,45.5,48.0,,1,0,0
+C0710,Poulain Victoire,24.0,Master,Autre,5.0,Consulting,38.4,67.7,2,1,1,1
+C0711,Lecoq Anastasie,34.0,Doctorat,Informatique,1.0,Industrie,43.2,,3,1,1,1
+C0712,Joubert Martine,28.0,Bac+5,Data Science,11.0,,56.8,55.9,2,1,0,1
+C0713,Lesage Marianne,42.0,Bac+5,,10.0,Tech,54.0,,2,1,0,1
+C0714,Gilles Aimé,34.0,Bac+5,,9.0,Finance,38.0,68.1,4,1,1,1
+C0715,Munoz Nicolas,27.0,Bac,Data Science,0.0,Banque,48.4,65.7,2,Oui,0,0
+C0716,Ollivier Maurice,,Bac+3,Marketing,31.0,Consulting,,56.2,2,0,1,0
+C0717,Parent Joséphine,25.0,Bac+2,Finance,3.0,Consulting,45.1,62.9,1,Non,1,0
+C0718,Rolland Honoré,41.0,BAC+5,Ingénierie,4.0,Tech,13.4,66.9,2,Oui,0,0
+C0719,Joseph Adélaïde,35.0,Bac+5,Informatique,2.0,Finance,82.1,62.0,3,1,1,1
+C0720,Hebert Susan,37.0,Bac+5,Data Science,5.0,Santé,40.7,78.2,3,1,0,0
+C0721,Delannoy Juliette,30.0,Master,Autre,5.0,Tech,11.2,57.9,2,0,1,1
+C0722,Lebrun Michèle,36.0,Licence,Marketing,14.0,Consulting,21.3,57.6,1,1,0,0
+C0723,Bernard Marcelle,34.0,Bac+2,info,,Consulting,67.2,36.4,3,0,0,1
+C0724,Turpin Yves,23.0,BAC+5,info,6.0,Industrie,70.9,51.4,2,1,0,1
+C0725,De Sousa Marguerite,32.0,Master,Commerce,3.0,Startup,38.4,76.7,3,1,1,0
+C0726,Vincent Noël,38.0,BAC+5,Informatique,5.0,Startup,33.4,49.7,2,1,1,0
+C0727,Simon Raymond,26.0,Bac,Data Science,5.0,Startup,84.1,80.9,2,1,1,0
+C0728,Lucas Suzanne,35.0,Bac+3,Marketing,12.0,Startup,8.8,69.2,1,1,1,0
+C0729,Dupuy Jules,28.0,Bac+5,,10.0,Consulting,48.7,81.8,3,0,0,0
+C0730,Marin Jules,28.0,Bac+3,Mécanique,4.0,Banque,54.6,94.2,2,1,0,1
+C0731,Laroche Pénélope,28.0,Master,Mécanique,10.0,Startup,73.4,100.0,,1,1,0
+C0732,Guibert Hugues,39.0,BAC+5,Informatique,13.0,Aucun,64.5,29.5,4,1,1,1
+C0733,Guillot Éléonore,34.0,Bac+5,Data Science,0.0,Tech,12.3,32.6,2,Oui,0,1
+C0734,Marchand Jérôme,25.0,Bac+2,Informatique,2.0,Banque,71.4,56.5,2,0,1,1
+C0735,Weiss Robert,42.0,Bac+2,Autre,20.0,Industrie,57.8,66.0,1,0,1,1
+C0736,Maréchal Emmanuelle,25.0,Bac+3,Autre,3.0,Tech,19.1,49.3,3,0,1,0
+C0737,Reynaud Bertrand,25.0,Bac+5,Informatique,4.0,tech,47.7,70.6,1,Oui,1,0
+C0738,Weber Geneviève,33.0,Bac+5,Informatique,16.0,Tech,49.6,71.9,1,1,1,1
+C0739,Humbert Raymond,41.0,Bac+2,Mécanique,19.0,Industrie,-10.0,94.4,2,oui,1,0
+C0740,Lemonnier Margaud,29.0,,Marketing,8.0,tech,56.5,86.1,1,oui,1,1
+C0741,Germain Stéphanie,28.0,Bac+5,Finance,6.0,Santé,49.8,84.8,3,1,0,1
+C0742,Dufour Denis,31.0,,Autre,2.0,Startup,34.2,67.9,3,1,0,1
+C0743,Grondin Nicole,28.0,Licence,Data Science,2.0,Startup,66.6,96.1,2,1,1,0
+C0744,Lecoq Brigitte,38.0,Bac+5,info,7.0,Finance,38.8,60.7,2,1,0,1
+C0745,Delahaye Thibaut,38.0,Bac+3,Ingénierie,6.0,Santé,70.8,74.7,1,0,1,1
+C0746,Morin Aimée,35.0,bac,Marketing,18.0,Santé,53.9,86.6,1,1,0,0
+C0747,Brun Arnaude,24.0,Bac+3,Autre,0.0,Startup,41.5,71.6,2,1,1,1
+C0748,Lopes Pauline,43.0,Licence,Ingénierie,10.0,Santé,37.9,92.9,4,1,0,1
+C0749,Albert Émilie,26.0,Bac+5,Informatique,2.0,Santé,44.8,99.4,3,Oui,1,0
+C0750,Bernier Christine,29.0,,Finance,4.0,Startup,39.2,73.6,2,1,0,0
+C0751,Legendre Augustin,41.0,Bac+5,Commerce,22.0,aucun,82.6,80.1,4,OUI,1,1
+C0752,Lefèvre Olivier,25.0,Bac+5,Autre,2.0,Finance,20.0,83.0,1,1,0,0
+C0753,Caron Célina,26.0,Bac+2,Informatique,4.0,Santé,53.2,57.3,2,Non,1,1
+C0754,Lecoq Aurélie,26.0,Bac +2,info,4.0,Banque,32.8,61.5,2,0,1,0
+C0755,Rolland François,25.0,Bac+3,Finance,6.0,Startup,17.9,82.5,1,1,1,0
+C0756,Paul Clémence,41.0,Bac+2,Autre,0.0,Startup,40.4,100.0,1,1,1,1
+C0757,Fournier Laurence,33.0,BAC+2,Data Science,6.0,Tech,66.7,67.0,4,1,0,1
+C0758,Loiseau Simone,26.0,Bac+2,Marketing,3.0,Industrie,10.9,73.4,3,1,1,1
+C0759,Besson Camille,27.0,Bac+3,Marketing,2.0,Santé,37.8,91.9,1,0,1,0
+C0760,Payet Léon,31.0,Bac+5,Data Science,8.0,Public,78.0,75.0,3,OUI,0,1
+C0761,Louis Alphonse,43.0,Bac+2,data,13.0,Banque,50.0,40.7,2,1,1,0
+C0762,Lagarde Christophe,27.0,Bac,Autre,9.0,Banque,68.0,75.3,2,0,1,1
+C0763,Legrand Danielle,31.0,Bac+5,Autre,5.0,Startup,9999.0,58.3,3,Oui,1,1
+C0764,Tanguy Corinne,29.0,Bac+2,Finance,7.0,Finance,34.8,75.8,2,1,1,1
+C0765,Voisin Élise,35.0,Licence,Marketing,10.0,Tech,26.2,65.1,3,Oui,1,0
+C0766,Toussaint Colette,26.0,Bac+3,Commerce,3.0,Aucun,45.6,64.2,3,1,0,1
+C0767,Klein Lucie,25.0,BAC+5,Informatique,4.0,Tech,64.4,65.6,3,1,0,1
+C0768,Olivier Victor,,BAC+5,Ingénierie,8.0,Aucun,,73.6,2,1,0,0
+C0769,Michaud Susan,-5.0,BAC+5,Autre,0.0,,37.5,54.5,4,1,0,1
+C0770,Techer Manon,26.0,Bac,Ingénierie,5.0,Aucun,52.7,80.4,3,1,0,0
+C0771,Philippe Diane,23.0,Bac+3,Ingénierie,-1.0,Aucun,24.9,67.7,3,0,1,0
+C0772,Loiseau Marcel,47.0,Bac,Informatique,18.0,Tech,100.0,67.1,3,1,1,1
+C0773,Olivier Arthur,23.0,Bac,Informatique,5.0,Tech,78.8,-5.0,3,1,0,1
+C0774,Dupré Margaret,27.0,Master,Data Science,0.0,Santé,37.9,-5.0,3,1,1,0
+C0775,Blondel Léon,31.0,Bac+2,Ingénierie,9.0,Finance,36.9,61.0,1,1,1,0
+C0776,Toussaint Théophile,41.0,BAC+5,Informatique,24.0,Public,70.4,47.4,1,1,1,1
+C0777,Guyot Charlotte,30.0,Bac+3,Data Science,4.0,Industrie,66.0,77.3,3,1,1,0
+C0778,Renault Guillaume,29.0,Bac+3,Marketing,3.0,Startup,45.0,71.0,2,1,0,0
+C0779,Tanguy Thérèse,32.0,Master,Informatique,15.0,Tech,52.4,100.0,1,0,1,1
+C0780,Michaud Tristan,33.0,PhD,info,11.0,Startup,93.7,72.3,3,1,1,1
+C0781,Marchand Paul,22.0,Bac+2,Finance,12.0,Startup,15.6,51.3,1,0,0,0
+C0782,Brunet Denis,36.0,Master,,20.0,Industrie,60.8,77.1,2,0,0,1
+C0783,Guichard Luce,,Bac+5,Autre,14.0,tech,88.7,67.8,3,1,0,1
+C0784,Rey Aimée,30.0,Bac+3,Informatique,2.0,Banque,65.1,49.7,2,1,1,1
+C0785,Gautier Laetitia,31.0,Bac +2,Marketing,0.0,Startup,31.9,43.6,2,1,0,0
+C0786,Navarro Dominique,27.0,BAC+5,Data Science,10.0,Public,76.1,66.7,3,oui,1,1
+C0787,Lefèvre Michèle,30.0,Bac+5,RH,2.0,Santé,10.5,62.3,2,0,1,0
+C0788,Hamel Alphonse,30.0,Master,Finance,2.0,Industrie,36.0,70.2,4,1,1,1
+C0789,Lemaître Laetitia,29.0,Bac,Ingénierie,2.0,Industrie,11.5,59.4,2,1,1,1
+C0790,Thierry Claude,24.0,Master,Informatique,6.0,Tech,54.1,69.5,2,1,1,1
+C0791,Moreno Augustin,30.0,BAC+5,Informatique,1.0,Tech,66.7,22.8,4,0,1,0
+C0792,Jourdan Laurence,35.0,Master,Informatique,19.0,Banque,66.8,69.2,1,1,1,1
+C0793,Michaud Monique,30.0,Doctorat,Informatique,6.0,Santé,50.6,66.9,2,1,1,1
+C0794,Becker Océane,31.0,Bac+3,Autre,7.0,Finance,38.4,75.6,1,1,0,1
+C0795,Maillot Marcelle,28.0,Bac+2,,5.0,Public,50.7,54.1,2,1,1,0
+C0796,Gautier Jean,38.0,Bac+3,,17.0,Tech,62.1,46.9,1,oui,0,1
+C0797,Bousquet Louis,29.0,Bac+5,,0.0,tech,13.8,71.8,2,0,1,1
+C0798,Lecoq Thérèse,40.0,Master,Commerce,11.0,aucun,45.3,70.8,2,0,1,0
+C0799,Bailly Lucy,25.0,BAC+5,Autre,4.0,Aucun,68.9,91.6,3,1,0,1
+C0800,Bouchet Patrick,23.0,Master,Data Science,0.0,Finance,46.7,61.4,3,1,1,1
+C0801,Pichon Jacqueline,27.0,Bac,Data Science,4.0,Santé,52.0,82.6,3,Non,,0
+C0802,Toussaint Thierry,25.0,Bac+5,Data Science,6.0,Banque,38.5,39.9,3,1,1,0
+C0803,Renaud Jacqueline,38.0,BAC+5,Marketing,17.0,Tech,77.5,60.4,2,1,0,1
+C0804,Rémy Roland,29.0,Bac +2,Informatique,6.0,Santé,59.9,47.2,2,1,,0
+C0805,Leduc Isabelle,26.0,Bac+5,Data Science,4.0,Startup,16.9,56.0,2,1,0,1
+C0806,Boutin Pauline,45.0,Bac+2,Autre,24.0,Finance,59.3,50.7,1,oui,1,1
+C0807,Labbé Pierre,27.0,BAC+5,Data Science,10.0,Finance,55.5,53.1,2,1,0,1
+C0808,Toussaint Claire,24.0,PhD,Ingénierie,5.0,Startup,29.0,69.6,3,1,1,0
+C0809,Tessier Danielle,34.0,Licence,Finance,19.0,Startup,59.8,65.8,1,1,0,1
+C0810,Mary Aimée,39.0,Bac+2,Commerce,24.0,Industrie,80.8,66.0,3,1,0,0
+C0811,Leroux Céline,30.0,Bac+2,RH,14.0,,38.4,67.1,3,1,1,0
+C0812,Mahe Édith,26.0,Bac+5,data,5.0,Industrie,55.0,58.6,3,0,1,0
+C0813,François Madeleine,,Bac+5,Ingénierie,22.0,aucun,60.4,64.1,3,1,0,0
+C0814,Lucas Guy,25.0,BAC+5,data,6.0,Startup,35.0,58.2,2,1,1,0
+C0815,Riou Bernadette,33.0,Bac+5,Marketing,99.0,Consulting,100.0,35.8,3,1,0,1
+C0816,Traore Benoît,30.0,Bac+2,Commerce,13.0,Santé,23.2,71.6,4,1,1,0
+C0817,Martineau Agnès,33.0,Master,Informatique,15.0,Startup,51.3,43.6,2,Oui,1,1
+C0818,Carlier Maggie,33.0,Licence,Ingénierie,9.0,Consulting,26.0,100.0,2,oui,1,1
+C0819,Teixeira Lucy,33.0,BAC+5,Informatique,7.0,,59.1,79.9,2,1,0,1
+C0820,Lecomte Marc,36.0,Bac,Ingénierie,2.0,Santé,16.9,87.3,,0,1,0
+C0821,Boulanger André,31.0,Bac,,1.0,Banque,0.0,80.3,3,1,1,0
+C0822,Lacroix Manon,31.0,Bac+5,,4.0,Public,31.2,60.2,2,1,0,0
+C0823,Dumas Jean,34.0,BAC+5,Ingénierie,9.0,Tech,54.0,100.0,2,1,1,1
+C0824,Bonneau Gilbert,42.0,,Ingénierie,8.0,Startup,13.2,73.7,2,1,0,0
+C0825,Charles Paul,36.0,BAC+5,Data Science,14.0,tech,71.0,48.5,2,1,1,1
+C0826,Gay Guillaume,38.0,Bac+2,Ingénierie,21.0,,41.9,70.8,2,1,1,1
+C0827,Guillon Denise,38.0,Bac+2,RH,20.0,Startup,29.7,51.5,1,1,1,0
+C0828,Weber Alexandria,43.0,BAC+5,Data Science,21.0,Consulting,89.8,-5.0,1,1,1,1
+C0829,Bouvet Laurent,36.0,Bac+3,Informatique,17.0,Tech,71.3,70.9,3,,0,0
+C0830,Thomas Christophe,30.0,,Finance,3.0,Finance,39.5,46.3,2,,1,1
+C0831,Rousset Luce,30.0,Licence,Finance,4.0,,24.5,79.2,2,1,1,0
+C0832,Allain Maryse,23.0,Bac+5,Informatique,26.0,Aucun,63.6,83.9,3,,1,0
+C0833,Seguin Michel,25.0,Bac+3,data,3.0,Finance,37.9,54.3,2,1,0,0
+C0834,Laroche Hugues,23.0,Licence,Commerce,3.0,Finance,44.7,39.0,2,1,1,0
+C0835,Hoarau Bernard,26.0,Bac+5,Data Science,4.0,Consulting,78.2,53.0,1,1,1,0
+C0836,Didier Zacharie,38.0,BAC+5,RH,17.0,Public,49.2,63.0,2,1,1,1
+C0837,Marques Lucas,36.0,Bac+3,Data Science,6.0,Finance,78.5,70.2,2,1,1,0
+C0838,Maillet Anaïs,34.0,Bac+2,Commerce,9.0,Finance,43.7,70.2,3,1,1,0
+C0839,Chauvin Gabrielle,26.0,Bac+3,Autre,4.0,Banque,53.0,78.0,3,1,,1
+C0840,François Élise,43.0,Bac+5,RH,7.0,Finance,31.9,63.9,2,1,1,0
+C0841,Langlois Manon,39.0,BAC+5,Informatique,99.0,Tech,100.0,76.4,1,1,1,1
+C0842,Becker Alex,29.0,Bac,Data Science,0.0,Banque,63.5,68.5,2,1,0,0
+C0843,Jacquot Jules,51.0,,Data Science,12.0,Consulting,31.8,52.4,2,1,0,1
+C0844,Bruneau Audrey,29.0,Bac+2,Data Science,9.0,Tech,57.3,67.0,1,1,1,1
+C0845,Roger Victor,34.0,Bac+5,Marketing,7.0,Public,38.9,81.4,2,Non,1,1
+C0846,Jean Agathe,25.0,Bac+5,,2.0,Banque,62.8,49.4,2,0,1,1
+C0847,Regnier Monique,31.0,Bac+5,Marketing,14.0,Startup,21.6,72.8,3,1,1,1
+C0848,Guillon Isabelle,35.0,BAC+5,Data Science,4.0,Industrie,50.8,48.3,4,1,0,1
+C0849,Bazin Auguste,31.0,Bac,RH,5.0,Tech,7.3,51.6,1,1,1,0
+C0850,Gonzalez Patricia,24.0,Licence,Marketing,6.0,Banque,,60.9,2,0,1,1
+C0851,Nguyen Lucie,41.0,Bac+5,RH,16.0,Tech,65.7,57.2,2,0,1,1
+C0852,Leblanc Philippine,28.0,Bac+5,Informatique,9.0,Tech,91.2,69.7,2,1,1,1
+C0853,Albert Sabine,25.0,Bac+2,Commerce,0.0,Consulting,24.2,58.2,3,1,0,1
+C0854,Auger Frédéric,34.0,BAC+2,Data Science,18.0,Consulting,71.2,79.1,3,1,0,1
+C0855,Moreau Colette,29.0,Licence,Data Science,5.0,Consulting,61.8,48.2,3,1,,0
+C0856,Moreau Laurence,34.0,Bac+3,Ingénierie,15.0,Tech,24.5,76.3,4,1,1,1
+C0857,Lemonnier Bertrand,32.0,Bac+5,Autre,8.0,Banque,37.2,40.9,3,OUI,1,1
+C0858,Maréchal Christophe,44.0,Bac+5,Informatique,16.0,Tech,58.8,67.5,2,1,0,0
+C0859,Goncalves Michelle,33.0,Bac+5,Marketing,9.0,Santé,52.6,37.1,1,0,1,0
+C0860,Gauthier Gilles,24.0,Bac+3,Finance,15.0,Aucun,45.3,51.1,2,0,1,1
+C0861,Daniel Madeleine,31.0,Bac+2,Informatique,,Startup,65.7,58.7,3,Oui,1,1
+C0862,Aubert Pierre,33.0,Bac+3,Data Science,16.0,,54.7,90.2,2,1,1,1
+C0863,Guillot Laurent,36.0,BAC+5,Informatique,12.0,aucun,36.2,67.2,2,1,0,1
+C0864,Hamel Paul,31.0,Licence,info,15.0,Santé,90.1,71.8,3,1,0,1
+C0865,Pichon Alphonse,41.0,Bac+5,Data Science,16.0,Public,68.2,53.5,2,1,0,1
+C0866,Da Silva Daniel,32.0,Bac+5,Informatique,11.0,Finance,94.7,52.7,3,Non,0,1
+C0867,Guillou Martin,29.0,Bac,Finance,2.0,Industrie,76.1,46.4,3,1,1,0
+C0868,Martel Vincent,,bac,RH,44.0,Consulting,43.1,77.1,2,Oui,0,1
+C0869,Courtois Guillaume,25.0,Master,Autre,4.0,Startup,59.8,62.5,2,0,1,0
+C0870,Jacquot Jacques,25.0,Bac+3,Data Science,7.0,Finance,49.1,63.7,4,1,1,0
+C0871,Guyon Colette,36.0,BAC+2,Commerce,16.0,tech,43.0,46.9,3,Oui,1,1
+C0872,Traore Christiane,31.0,Bac+5,Informatique,14.0,Public,76.8,72.1,4,1,1,1
+C0873,Blin Marguerite,41.0,Bac+3,Data Science,4.0,Startup,71.9,100.0,2,1,0,1
+C0874,Loiseau Noël,33.0,BAC+5,,12.0,Santé,28.6,37.4,1,0,1,0
+C0875,Noël Audrey,32.0,Bac+5,Autre,13.0,Tech,69.7,61.5,2,0,1,0
+C0876,Nicolas Célina,39.0,Bac,Commerce,,Santé,51.8,41.2,2,1,1,1
+C0877,Andre Margaux,27.0,Bac+5,RH,10.0,Public,62.5,42.8,deux,1,1,1
+C0878,Bernier Adèle,,Master,info,18.0,aucun,78.9,46.2,2,1,1,1
+C0879,Peltier David,39.0,Master,,23.0,Startup,37.2,43.3,3,0,0,1
+C0880,Meunier Catherine,30.0,Bac +2,Informatique,1.0,Tech,43.1,78.8,2,1,0,1
+C0881,Mary Élisabeth,28.0,Bac,Informatique,4.0,Banque,31.1,,1,0,0,0
+C0882,Grondin Valentine,29.0,Bac+5,Marketing,8.0,Finance,14.5,48.2,2,1,0,0
+C0883,Berthelot Guillaume,25.0,Master,,2.0,Banque,45.1,55.7,2,,1,1
+C0884,Menard Maurice,29.0,BAC+5,Data Science,11.0,Aucun,49.5,999.0,1,1,1,1
+C0885,Moulin Jacques,33.0,Bac +2,,11.0,Banque,30.5,79.4,2,0,1,0
+C0886,Clément René,33.0,Bac+3,Data Science,3.0,Startup,31.3,59.7,2,1,1,0
+C0887,Gosselin Laurence,25.0,Bac+2,Informatique,1.0,Banque,66.1,47.6,2,1,0,1
+C0888,Schneider Étienne,29.0,,Marketing,6.0,Aucun,56.1,70.3,3,1,1,0
+C0889,Guillot Noël,37.0,Bac+5,Data Science,9.0,Industrie,59.9,66.4,3,1,1,0
+C0890,Thomas Maggie,34.0,Bac+5,Autre,0.0,Tech,29.6,75.2,3,1,0,1
+C0891,Boucher Alix,45.0,Bac+2,Autre,28.0,Tech,80.0,63.5,2,1,,1
+C0892,Étienne Gabriel,27.0,Bac,RH,9.0,Santé,53.4,78.5,3,1,1,1
+C0893,Dupuis Denise,36.0,Bac+2,Autre,10.0,Tech,25.7,61.1,1,1,0,0
+C0894,Langlois Alexandre,38.0,Doctorat,,1.0,,40.1,48.0,3,1,0,0
+C0895,Andre Martine,37.0,Bac+5,Marketing,,Industrie,48.6,64.7,2,1,1,1
+C0896,Rousset Mathilde,31.0,Bac +2,Informatique,10.0,Startup,70.4,46.9,2,1,0,1
+C0897,Guyot Édouard,28.0,Bac+2,Ingénierie,8.0,Santé,23.5,38.0,2,1,0,0
+C0898,Leleu Marguerite,38.0,Bac,Marketing,1.0,Tech,11.2,66.6,3,0,1,0
+C0899,Jacquot Dorothée,,Master,Data Science,9.0,tech,73.6,39.7,4,1,1,0
+C0900,Gilles Sophie,40.0,Bac,Finance,24.0,Finance,40.5,70.2,3,1,1,0
+C0901,Blondel Anastasie,37.0,Bac+3,Informatique,1.0,Consulting,34.5,62.2,3,1,1,0
+C0902,Moulin Alexandrie,32.0,Bac+5,Mécanique,15.0,Tech,53.9,64.7,2,0,0,1
+C0903,Daniel Chantal,42.0,Bac+3,Data Science,21.0,Public,80.4,46.9,1,0,0,1
+C0904,Maurice Marc,34.0,Master,Ingénierie,5.0,Startup,79.3,61.6,deux,1,1,0
+C0905,Berthelot Bernadette,23.0,Bac+3,Marketing,1.0,Finance,46.1,75.5,3,1,1,0
+C0906,Vallée Auguste,28.0,BAC+5,Commerce,3.0,Tech,22.7,52.8,2,0,1,0
+C0907,Legrand Sabine,37.0,Master,Mécanique,18.0,Consulting,39.6,61.4,2,1,1,1
+C0908,Lecoq Bertrand,28.0,Bac+5,Commerce,10.0,Finance,46.4,67.2,2,0,0,1
+C0909,Nicolas Eugène,27.0,Bac+2,Autre,7.0,Finance,47.5,66.6,4,1,1,0
+C0910,Reynaud Anaïs,25.0,BAC+5,Ingénierie,5.0,Public,27.8,60.2,2,0,0,1
+C0911,Pierre Dorothée,25.0,PhD,Commerce,0.0,Banque,20.7,42.1,3,0,1,0
+C0912,Bonnin Éléonore,25.0,Bac+5,Finance,0.0,Consulting,0.0,82.8,2,1,1,0
+C0913,Wagner Nathalie,27.0,BAC+5,Autre,10.0,Tech,65.2,86.9,1,Oui,0,1
+C0914,Dubois Emmanuelle,28.0,Bac+3,RH,3.0,Banque,40.6,58.2,3,1,1,1
+C0915,Pages Margaud,,Master,Informatique,8.0,Consulting,70.9,81.6,2,0,1,1
+C0916,Martins Adélaïde,37.0,Bac+3,Finance,5.0,Santé,21.6,63.5,2,1,0,0
+C0917,Petitjean Honoré,26.0,Master,RH,8.0,Industrie,64.1,,2,1,1,0
+C0918,Dumont Marthe,24.0,Bac+2,Commerce,4.0,Finance,55.1,58.6,2,Oui,1,1
+C0919,Duhamel Isaac,23.0,BAC+2,Data Science,6.0,Public,38.5,69.6,3,0,0,1
+C0920,Loiseau Inès,46.0,Bac+2,Data Science,8.0,Consulting,58.1,62.4,3,,1,0
+C0921,Clerc Marthe,27.0,Bac,,4.0,Finance,26.7,59.2,2,oui,0,1
+C0922,Hernandez Dominique,47.0,BAC+5,Marketing,18.0,Industrie,42.3,74.0,2,1,0,1
+C0923,Poirier Christophe,28.0,Bac+3,Autre,7.0,Aucun,,82.7,3,1,1,0
+C0924,Cohen Alfred,28.0,Bac+5,info,5.0,Startup,46.3,59.8,2,1,1,1
+C0925,Robin Robert,,Bac+5,Informatique,21.0,Industrie,63.0,72.9,4,oui,1,0
+C0926,Charrier Denis,36.0,Master,Marketing,2.0,Industrie,7.9,81.2,4,1,0,0
+C0927,Charles Antoinette,27.0,Bac+3,Autre,3.0,Banque,25.3,47.5,1,Oui,1,1
+C0928,Chartier Nathalie,49.0,Master,Mécanique,13.0,Banque,62.2,79.8,2,1,1,1
+C0929,Martineau Célina,33.0,Bac,Finance,9.0,Banque,28.7,80.4,1,1,0,1
+C0930,Maillot Gérard,37.0,Bac+5,info,15.0,Finance,57.9,69.9,3,1,0,1
+C0931,Marchand Célina,23.0,Bac+3,Ingénierie,6.0,Tech,54.0,57.3,3,Oui,1,0
+C0932,Laroche Guillaume,32.0,Bac+3,info,7.0,Banque,83.4,46.0,3,1,0,1
+C0933,Loiseau Élise,28.0,Master,data,0.0,,36.3,73.9,2,1,1,1
+C0934,Valentin Laetitia,34.0,Master,Informatique,13.0,tech,42.7,59.0,3,1,1,0
+C0935,Ruiz Élisabeth,28.0,bac,Informatique,8.0,Tech,100.0,60.7,3,oui,1,1
+C0936,Traore Gabrielle,41.0,Doctorat,Ingénierie,10.0,,20.9,38.2,3,1,0,1
+C0937,Germain Colette,33.0,Bac+5,Data Science,13.0,Tech,9999.0,62.3,,1,0,1
+C0938,Lefort Lucy,46.0,bac,Marketing,11.0,Banque,56.3,51.4,1,1,1,0
+C0939,Bruneau Sébastien,45.0,BAC+5,Informatique,9.0,Consulting,55.8,53.6,1,1,1,0
+C0940,Roy Louis,31.0,Bac+5,Informatique,99.0,Tech,100.0,62.6,2,0,1,1
+C0941,Merle Maurice,37.0,BAC+5,,15.0,Startup,66.8,64.8,3,Oui,0,1
+C0942,Jourdan Cécile,28.0,BAC+2,Autre,4.0,Finance,30.2,54.6,3,Oui,1,0
+C0943,Gomes David,25.0,Bac+2,Informatique,6.0,Aucun,63.8,47.6,2,1,1,0
+C0944,Morin Charlotte,31.0,Bac,Mécanique,7.0,Consulting,49.3,66.6,1,1,1,1
+C0945,Menard Caroline,25.0,Bac+3,Informatique,1.0,Tech,34.5,69.5,2,1,0,1
+C0946,Delaunay Noël,27.0,Bac+5,Ingénierie,2.0,Industrie,42.0,91.7,3,0,1,1
+C0947,Bonnin Amélie,27.0,Licence,Informatique,7.0,Tech,56.8,58.6,1,1,1,0
+C0948,Ruiz Tristan,29.0,Master,Ingénierie,12.0,Industrie,40.8,65.9,3,OUI,1,0
+C0949,Regnier Patricia,26.0,Bac,Commerce,6.0,,27.9,67.4,deux,1,1,0
+C0950,Joubert Maryse,34.0,Bac+3,Marketing,999.0,,100.0,73.3,1,1,0,1
+C0951,Guyot Marguerite,38.0,,Ingénierie,11.0,Finance,44.4,30.9,1,1,0,1
+C0952,Dias Jeanne,28.0,Bac+3,data,8.0,Consulting,71.2,76.7,3,1,1,1
+C0953,Dias Nath,32.0,BAC+5,Informatique,16.0,Santé,56.9,75.7,1,0,1,1
+C0954,Moreau Monique,37.0,Bac+5,Autre,5.0,Startup,19.0,51.6,3,1,1,1
+C0955,Evrard Franck,31.0,Bac+5,Marketing,13.0,Startup,46.9,40.1,2,1,1,0
+C0956,Navarro Maggie,27.0,Master,Autre,6.0,Aucun,47.6,92.9,2,0,1,0
+C0957,Rodriguez Guillaume,27.0,,Marketing,10.0,Public,49.7,71.9,2,1,1,1
+C0958,Voisin Aurélie,37.0,Doctorat,Marketing,19.0,,61.1,47.4,1,0,1,1
+C0959,Joly Marguerite,35.0,Bac+5,Marketing,5.0,Santé,49.9,64.0,3,Oui,1,0
+C0960,Pinto Monique,27.0,PhD,Commerce,5.0,Industrie,19.1,69.4,3,1,1,1
+C0961,Rivière Robert,39.0,Bac,,4.0,Santé,3.0,56.0,1,1,1,0
+C0962,Joly Suzanne,24.0,Bac+5,Data Science,8.0,Startup,33.0,87.2,4,0,1,1
+C0963,Hoarau Émile,38.0,Licence,Informatique,23.0,Santé,63.5,60.3,3,1,0,1
+C0964,Perrin Juliette,25.0,Bac+5,Autre,1.0,Public,43.6,62.1,2,1,1,0
+C0965,Mary Roland,28.0,BAC+5,Marketing,10.0,Consulting,55.0,75.8,1,1,0,0
+C0966,Marques Guillaume,27.0,Bac,Data Science,5.0,Industrie,41.1,45.5,2,0,1,1
+C0967,Gomes Marianne,29.0,Bac+2,Informatique,3.0,Startup,37.3,71.7,3,OUI,1,0
+C0968,Nguyen Théodore,43.0,Bac+5,Informatique,30.0,Consulting,100.0,44.2,2,Non,0,1
+C0969,Chevalier Paul,41.0,,Informatique,19.0,Aucun,90.8,89.7,1,1,1,1
+C0970,Duhamel Océane,,Bac+5,Marketing,24.0,,72.2,67.3,1,1,1,1
+C0971,Vincent Édith,35.0,Master,RH,14.0,Startup,51.8,73.9,1,0,1,0
+C0972,Carlier Alexandrie,34.0,Master,Commerce,3.0,Public,58.7,44.9,1,1,1,0
+C0973,Lamy Pénélope,34.0,Licence,Informatique,4.0,Industrie,63.3,57.2,2,1,1,1
+C0974,Lefort Arthur,30.0,Bac+5,data,2.0,Public,78.5,58.1,3,oui,0,0
+C0975,Charles Camille,34.0,Bac+5,Autre,10.0,Industrie,46.8,59.2,1,1,0,1
+C0976,Hubert Théodore,25.0,Master,Marketing,8.0,Consulting,31.0,54.3,2,1,1,1
+C0977,Pinto Marguerite,33.0,,Finance,10.0,Santé,52.1,64.0,4,0,0,0
+C0978,Allard Martin,27.0,Bac+5,,4.0,Finance,20.8,45.1,2,Oui,1,1
+C0979,Pineau David,25.0,BAC+5,Informatique,1.0,tech,67.8,83.2,1,,1,1
+C0980,Lacroix Martin,33.0,Bac+3,RH,3.0,Consulting,13.2,77.0,,1,1,1
+C0981,Potier Jean,40.0,Bac+3,info,4.0,Tech,,48.8,3,1,1,0
+C0982,Blanchet Marianne,26.0,Bac,Commerce,3.0,,74.6,59.8,1,1,0,0
+C0983,Ribeiro Gilles,44.0,Bac+5,Commerce,31.0,Santé,55.5,37.3,1,0,0,1
+C0984,Bouvier Julien,24.0,Master,Informatique,6.0,Finance,64.5,70.1,2,1,0,0
+C0985,Jacquet Édouard,32.0,Bac,Data Science,3.0,Tech,60.4,49.5,3,1,1,1
+C0986,Antoine Agathe,29.0,Bac+3,Informatique,6.0,Industrie,57.1,53.2,3,1,1,1
+C0987,Huet Astrid,31.0,BAC+2,,11.0,Industrie,58.9,76.2,3,1,0,0
+C0988,Chauveau Sylvie,39.0,Bac+3,RH,10.0,Startup,68.0,52.8,2,1,1,1
+C0989,Pons Odette,29.0,Bac+5,Data Science,9.0,Startup,32.6,66.6,1,1,0,0
+C0990,Leroux Aimé,39.0,Bac,RH,6.0,Public,39.5,67.9,3,1,0,0
+C0991,Charpentier Constance,30.0,Bac +2,Informatique,1.0,Aucun,91.9,36.6,2,1,1,0
+C0992,Maurice Aimé,41.0,Bac+5,Mécanique,25.0,Industrie,66.0,74.7,1,1,0,1
+C0993,Auger Matthieu,41.0,Bac+5,Commerce,11.0,Santé,56.8,31.7,deux,1,1,1
+C0994,Navarro Bernadette,27.0,Bac+5,Commerce,8.0,Industrie,39.8,74.0,,1,1,1
+C0995,Picard Sylvie,24.0,Bac +2,RH,4.0,Banque,29.8,51.0,3,1,0,1
+C0996,Collet Thierry,,Bac+2,Marketing,40.0,Industrie,84.2,53.8,deux,1,1,1
+C0997,Ribeiro Pénélope,33.0,Bac+2,Autre,17.0,Industrie,33.8,51.2,3,1,1,1
+C0998,Valette Bertrand,27.0,BAC+5,Ingénierie,4.0,Startup,20.1,47.9,1,1,0,0
+C0999,Pages Noël,,Master,Data Science,34.0,Santé,80.1,93.3,3,0,0,0
+C1000,Pichon Maurice,35.0,Bac+3,Data Science,6.0,Santé,42.5,70.2,2,1,1,1
